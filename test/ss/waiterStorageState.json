@@ -1,0 +1,53 @@
+{
+  "cookies": [
+    {
+      "name": "menudget_sSessionToken",
+      "value": "WnpTbGx2bmlxdDFQM0MwOUtxWDhqVmZLRl94dWJoN2U6b3RzO0ZnSUVZV3R3SmRVcVY1MUhPSnhUVnhJQ2lMcnNNVjI2O2U1NDZkOWI0NDY2ZDhmNWJkMTFkN2ViZTQ3ZjVjMjlhMjk2MzMwNWVkZjlkOWI0NzUzMWRiZjE0ZWM2YzcxOTY7djA%3D",
+      "domain": "localhost",
+      "path": "/",
+      "expires": 1709644511.889861,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "menudget_sAntiCsrfToken",
+      "value": "nMtNVAsQcF0YaZyuoPKd23wU9QH7qxKK",
+      "domain": "localhost",
+      "path": "/",
+      "expires": 1709644511.889902,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "menudget_sPublicDataToken",
+      "value": "eyJ1c2VySWQiOjMsInJvbGUiOiJXYWl0ZXIifQ%3D%3D",
+      "domain": "localhost",
+      "path": "/",
+      "expires": 1709644511.889915,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "http://localhost:3000",
+      "localStorage": [
+        {
+          "name": "_blitz-publicDataUpdated",
+          "value": "1707052511890"
+        },
+        {
+          "name": "menudget_sPublicDataToken",
+          "value": "eyJ1c2VySWQiOjMsInJvbGUiOiJXYWl0ZXIifQ=="
+        },
+        {
+          "name": "menudget_sAntiCsrfToken",
+          "value": "nMtNVAsQcF0YaZyuoPKd23wU9QH7qxKK"
+        }
+      ]
+    }
+  ]
+}

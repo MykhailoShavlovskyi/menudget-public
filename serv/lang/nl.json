@@ -1,0 +1,926 @@
+{
+  "+ieMu+": {
+    "defaultMessage": "Opslaan",
+    "description": "auth->ChangePasswordForm.tsx->ChangePasswordForm"
+  },
+  "+j/axq": {
+    "defaultMessage": "Nieuw wachtwoord:",
+    "description": "auth->ChangePasswordForm.tsx->ChangePasswordForm"
+  },
+  "/4rm+3": {
+    "defaultMessage": "Bezig met verwerken",
+    "description": "orders->OrdersGrid.tsx->OrdersGrid"
+  },
+  "/Mp5TY": {
+    "defaultMessage": "Bevestig wachtwoord",
+    "description": "profile->PasswordForm.tsx->PasswordForm"
+  },
+  "/qw7K+": {
+    "defaultMessage": "Wachtwoord",
+    "description": "profile->SettingsForm.tsx->SettingsForm"
+  },
+  "0LED6B": {
+    "defaultMessage": "Startpagina",
+    "description": "auth->ChangePasswordForm.tsx->ChangePasswordForm"
+  },
+  "0OUYba": {
+    "defaultMessage": "Ondersteuning",
+    "description": "profile->ProfileMenu.tsx->ProfileMenu"
+  },
+  "1BhBh3": {
+    "defaultMessage": "Vrij",
+    "description": "restaurants->workingTimeInput.tsx->WorkingTime"
+  },
+  "1sz7b+": {
+    "defaultMessage": "Je nieuwe wachtwoord moet verschillend zijn van eerder gebruikte wachtwoorden",
+    "description": "auth->ChangePasswordForm.tsx->ChangePasswordForm"
+  },
+  "24MyNi": {
+    "defaultMessage": "Voeg nieuwe ober toe",
+    "description": "tables->AddWaiterCard.tsx->AddWaiterCard"
+  },
+  "2PyDMz": {
+    "defaultMessage": "In behandeling",
+    "description": "orders->OrdersGrid.tsx->OrdersGrid"
+  },
+  "3KMXKw": {
+    "defaultMessage": "Open modelvoorbeeld",
+    "description": "dishes->dish-form->DishModelDropZone.tsx->DishModelDropZone"
+  },
+  "3WKI6x": {
+    "defaultMessage": "Wachtwoord resetten gelukt",
+    "description": "auth->ChangePasswordForm.tsx->ChangePasswordForm"
+  },
+  "3jKdiw": {
+    "defaultMessage": "Ga naar de",
+    "description": "auth->ChangePasswordForm.tsx->ChangePasswordForm"
+  },
+  "43OhbU": {
+    "defaultMessage": "Naam moet minstens 3 tekens bevatten",
+    "description": "dishes->dish-form->DishForm.tsx->schema"
+  },
+  "4AZhlb": {
+    "defaultMessage": "Zoek bestelling",
+    "description": "orders->ArchiveTable.tsx->ArchiveTable"
+  },
+  "4gTkXT": {
+    "defaultMessage": "Antwoord 1",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "4lxG7u": {
+    "defaultMessage": "Annuleren",
+    "description": "profile->ProfileMenu.tsx->ProfileMenu"
+  },
+  "5CbC0r": {
+    "defaultMessage": "Verplaatsen naar archief",
+    "description": "orders->OrderCards.tsx->collected.isDragging"
+  },
+  "5LxxvK": {
+    "defaultMessage": "Verwijderen",
+    "description": "dishes->dish-form->DishModelDropZone.tsx->FileItem"
+  },
+  "6WV8PH": {
+    "defaultMessage": "Bezetting",
+    "description": "tables->TableFrom.tsx->OccupancyInput"
+  },
+  "6woQQ2": {
+    "defaultMessage": "Ma",
+    "description": "restaurants->workingTimeInput.tsx->WorkingTime"
+  },
+  "7DJkn/": {
+    "defaultMessage": "Antwoord 5",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "7bQzQH": {
+    "defaultMessage": "Antwoord 2",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "7y6ZH+": {
+    "defaultMessage": "Koolhydraten",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "8BaINU": {
+    "defaultMessage": "Notities",
+    "description": "tables->WaiterForm.tsx->NotesInput"
+  },
+  "8MQUwb": {
+    "defaultMessage": "Do",
+    "description": "restaurants->workingTimeInput.tsx->WorkingTime"
+  },
+  "8RZQGr": {
+    "defaultMessage": "Privacybeleid",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "8aLbnp": {
+    "defaultMessage": "Tafel",
+    "description": "orders->ArchiveTable.tsx->ArchiveTable"
+  },
+  "8abULR": {
+    "defaultMessage": "E-mail*",
+    "description": "tables->WaiterForm.tsx->EmailInput"
+  },
+  "8d7OT8": {
+    "defaultMessage": "Klik hier of sleep bestanden hierheen",
+    "description": "common->formik->ImageUploaderContent.tsx->ImageUploaderContent"
+  },
+  "8et7Mn": {
+    "defaultMessage": "Ondervind je problemen?",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "8pZT/n": {
+    "defaultMessage": "Wijzig je wachtwoord",
+    "description": "auth->ChangePasswordForm.tsx->ChangePasswordForm"
+  },
+  "8qW4QW": {
+    "defaultMessage": "Gerechten",
+    "description": "dishes->DishesHeading.tsx->DishesHeading"
+  },
+  "AQvdtk": {
+    "defaultMessage": "Wachtwoord vergeten?",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "AdOqUA": {
+    "defaultMessage": "Zet de bestanden hier neer...",
+    "description": "dishes->dish-form->DishModelDropZone.tsx->DishModelDropZone"
+  },
+  "BCcd3F": {
+    "defaultMessage": "Selecteer ten minste 1 label",
+    "description": "dishes->dish-form->DishForm.tsx->schema"
+  },
+  "BHGilS": {
+    "defaultMessage": "Ga terug",
+    "description": "profile->PasswordForm.tsx->PasswordForm"
+  },
+  "BWeNYp": {
+    "defaultMessage": "Naam",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "BgPfBP": {
+    "defaultMessage": "Hallo, {userName}",
+    "description": "profile->ProfileMenu.tsx->ProfileMenu"
+  },
+  "C+e4j8": {
+    "defaultMessage": "Naam*",
+    "description": "tables->TableFrom.tsx->NameInput"
+  },
+  "Cafcg9": {
+    "defaultMessage": "Plak dezelfde tijd voor alle dagen",
+    "description": "restaurants->workingTimeInput.tsx->WorkingTime"
+  },
+  "CozdSB": {
+    "defaultMessage": "ml",
+    "description": "dishes->dish-form->DishForm.tsx->measurementUnitOptions"
+  },
+  "DDuWKi": {
+    "defaultMessage": "Toon QR-code",
+    "description": "tables->TableCard.tsx->TableCard"
+  },
+  "DqlcuR": {
+    "defaultMessage": "Alle categorieën:",
+    "description": "dishes->CategoriesForm.tsx->Items"
+  },
+  "Eg15/l": {
+    "defaultMessage": "Wo",
+    "description": "restaurants->workingTimeInput.tsx->WorkingTime"
+  },
+  "Ehtx8V": {
+    "defaultMessage": "Za",
+    "description": "restaurants->workingTimeInput.tsx->WorkingTime"
+  },
+  "F6sa0t": {
+    "defaultMessage": "Notitie",
+    "description": "orders->EditNoteModal.tsx->EditNoteModal"
+  },
+  "FUAtln": {
+    "defaultMessage": "Meeteenheid",
+    "description": "dishes->dish-form->DishForm.tsx->CategorySelect"
+  },
+  "FZ6QGI": {
+    "defaultMessage": "Zo",
+    "description": "restaurants->workingTimeInput.tsx->WorkingTime"
+  },
+  "FbYlRy": {
+    "defaultMessage": "Categorie",
+    "description": "dishes->dish-form->DishForm.tsx->CategorySelect"
+  },
+  "Fc0T4O": {
+    "defaultMessage": "Antwoord 6",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "G+WokM": {
+    "defaultMessage": "Wachtwoord",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "GouM3V": {
+    "defaultMessage": "Inloggen mislukt!",
+    "description": "auth->LoginFailed.tsx->LoginFailed"
+  },
+  "HASNSE": {
+    "defaultMessage": "Nieuw wachtwoord",
+    "description": "profile->PasswordForm.tsx->PasswordForm"
+  },
+  "Hrteqc": {
+    "defaultMessage": "E-mail",
+    "description": "auth->ForgotPasswordForm.tsx->ForgotPasswordForm"
+  },
+  "I7YVqS": {
+    "defaultMessage": "Profielinstellingen",
+    "description": "profile->PasswordForm.tsx->PasswordForm"
+  },
+  "IgYXjd": {
+    "defaultMessage": "Eiwit",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "IhcPD8": {
+    "defaultMessage": "Terug naar inloggen",
+    "description": "auth->ForgotPasswordForm.tsx->ForgotPasswordForm"
+  },
+  "JwqSE5": {
+    "defaultMessage": "Leuk je te zien! Log in op je account!",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "KS292J": {
+    "defaultMessage": "Beschrijving moet minimaal 3 tekens bevatten",
+    "description": "dishes->dish-form->DishForm.tsx->schema"
+  },
+  "KvT3Be": {
+    "defaultMessage": "Antwoord 4",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "LBX4WW": {
+    "defaultMessage": "Wijzigingen opslaan",
+    "description": "orders->EditNoteModal.tsx->EditNoteModal"
+  },
+  "LvmgQd": {
+    "defaultMessage": "Dit is een smakelijk gerecht",
+    "description": "dishes->dish-form->DishForm.tsx->DishFormValues"
+  },
+  "M3OfiI": {
+    "defaultMessage": "Breedte",
+    "description": "dishes->dish-form->DishModelDropZone.tsx->DishModelDropZone"
+  },
+  "MIg15T": {
+    "defaultMessage": "Creëer {name}",
+    "description": "common->form->FormHeader.tsx->FormHeader"
+  },
+  "MLKLVm": {
+    "defaultMessage": "Uitloggen",
+    "description": "profile->ProfileMenu.tsx->ProfileMenu"
+  },
+  "NqjPpm": {
+    "defaultMessage": "Notitie bewerken",
+    "description": "orders->EditNoteModal.tsx->EditNoteModal"
+  },
+  "NzIJK7": {
+    "defaultMessage": "Meetwaarde",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "O+9qkw": {
+    "defaultMessage": "E-mail:",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "OLBeMv": {
+    "defaultMessage": "Tafels",
+    "description": "tables->TablesHeading.tsx->TablesHeading"
+  },
+  "ONwtvJ": {
+    "defaultMessage": "Bezetting:",
+    "description": "tables->TableCard.tsx->TableCard"
+  },
+  "P+Sv6B": {
+    "defaultMessage": "Weet je zeker dat je wilt uitloggen?",
+    "description": "profile->ProfileMenu.tsx->ProfileMenu"
+  },
+  "P/Ks9N": {
+    "defaultMessage": "QR-code downloaden",
+    "description": "tables->TableCard.tsx->DownloadButtonLabel"
+  },
+  "PCTh6H": {
+    "defaultMessage": "Vraag 4",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "Q0GclD": {
+    "defaultMessage": "kg",
+    "description": "dishes->dish-form->DishForm.tsx->measurementUnitOptions"
+  },
+  "Q5wfnM": {
+    "defaultMessage": "Maak je gerechten aantrekkelijker!",
+    "description": "dishes->dish-form->MarketingToolsInput.tsx->MarketingToolsInput"
+  },
+  "QTaLIB": {
+    "defaultMessage": "Categorie moet minimaal 3 tekens bevatten",
+    "description": "dishes->CategoryForm.tsx->schema"
+  },
+  "RWvQJO": {
+    "defaultMessage": "Opmerking",
+    "description": "orders->OrderCards.tsx->collected.isDragging"
+  },
+  "RxtRx6": {
+    "defaultMessage": "Opslaan",
+    "description": "profile->PasswordForm.tsx->PasswordForm"
+  },
+  "S8ecya": {
+    "defaultMessage": "Wachtwoord wijzigen",
+    "description": "profile->SettingsForm.tsx->EmailInput"
+  },
+  "SExSe1": {
+    "defaultMessage": "Nieuwe tafel",
+    "description": "tables->TableFrom.tsx->defaultValues"
+  },
+  "ScZRjH": {
+    "defaultMessage": "Profielinstellingen",
+    "description": "profile->SettingsForm.tsx->SettingsForm"
+  },
+  "T4qZnh": {
+    "defaultMessage": "Vraag 5",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "T7So3Z": {
+    "defaultMessage": "Inloggen",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "U7hSS5": {
+    "defaultMessage": "Naam is een verplicht veld",
+    "description": "tables->WaiterForm.tsx->schema"
+  },
+  "UdgZyE": {
+    "defaultMessage": "Naam*",
+    "description": "tables->WaiterForm.tsx->NameInput"
+  },
+  "Ug7ZlS": {
+    "defaultMessage": "Valuta",
+    "description": "restaurants->RestaurantForm.tsx->CurrencySelect"
+  },
+  "V16hmr": {
+    "defaultMessage": "Bewerk {name}",
+    "description": "common->form->FormHeader.tsx->FormHeader"
+  },
+  "V8ZBNQ": {
+    "defaultMessage": "Datum",
+    "description": "orders->ArchiveTable.tsx->ArchiveTable"
+  },
+  "VWI5+f": {
+    "defaultMessage": "Opslaan",
+    "description": "common->form->SaveDeleteButtons.tsx->SaveDeleteButtons"
+  },
+  "VWO1sJ": {
+    "defaultMessage": "Tafels",
+    "description": "tables->WaiterForm.tsx->TablesInput"
+  },
+  "W8j9OA": {
+    "defaultMessage": "Wachtwoord:",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "WNlVUu": {
+    "defaultMessage": "Bestellingen",
+    "description": "orders->OrdersHeading.tsx->OrdersHeading"
+  },
+  "WVbXfh": {
+    "defaultMessage": "E-mail",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "YTeQmg": {
+    "defaultMessage": "E-mail is een verplicht veld",
+    "description": "tables->WaiterForm.tsx->schema"
+  },
+  "ZJO1vp": {
+    "defaultMessage": "E-mail",
+    "description": "profile->SettingsForm.tsx->EmailInput"
+  },
+  "Zb5dPz": {
+    "defaultMessage": "Extra categorie",
+    "description": "dishes->dish-form->MarketingToolsInput.tsx->MarketingToolsInput"
+  },
+  "ZsnUV+": {
+    "defaultMessage": "E-mail:",
+    "description": "auth->ForgotPasswordForm.tsx->ForgotPasswordForm"
+  },
+  "Zu7S1p": {
+    "defaultMessage": "Annuleren",
+    "description": "common->modal->ConfirmDeleteModal.tsx->ConfirmDeleteModal"
+  },
+  "b/YOwn": {
+    "defaultMessage": "Voeg banner toe",
+    "description": "restaurants->RestaurantForm.tsx->BannerInput"
+  },
+  "bEMXh3": {
+    "defaultMessage": "Prijs",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "bmfz7U": {
+    "defaultMessage": "Voeg nieuw gerecht toe",
+    "description": "dishes->AddDishCard.tsx->AddDishCard"
+  },
+  "bs2321": {
+    "defaultMessage": "l",
+    "description": "dishes->dish-form->DishForm.tsx->measurementUnitOptions"
+  },
+  "bycHoP": {
+    "defaultMessage": "Voer uw e-mailadres in om uw verificatiecode te ontvangen",
+    "description": "auth->ForgotPasswordForm.tsx->ForgotPasswordForm"
+  },
+  "cdYiPd": {
+    "defaultMessage": "Als uw e-mail in ons systeem staat, ontvangt u binnenkort instructies om uw wachtwoord opnieuw in te stellen.",
+    "description": "auth->ForgotPasswordForm.tsx->ForgotPasswordForm"
+  },
+  "cufXoZ": {
+    "defaultMessage": "Kelner",
+    "description": "tables->TableFrom.tsx->WaiterSelect"
+  },
+  "dJxu8T": {
+    "defaultMessage": "Pittigheidsniveau",
+    "description": "dishes->dish-form->DishForm.tsx->SpicyLevelInput"
+  },
+  "eHNiK5": {
+    "defaultMessage": "Voeg logo toe",
+    "description": "restaurants->RestaurantForm.tsx->LogoInput"
+  },
+  "eWk+/S": {
+    "defaultMessage": "Door op 'Inloggen' hierboven te klikken, erkent u dat u hebt gelezen, begrepen en akkoord bent gegaan met ",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "evYEY3": {
+    "defaultMessage": "Aanvraag ingediend",
+    "description": "auth->ForgotPasswordForm.tsx->ForgotPasswordForm"
+  },
+  "fB8rMX": {
+    "defaultMessage": "Naam",
+    "description": "restaurants->RestaurantForm.tsx->NameInput"
+  },
+  "fI8c2I": {
+    "defaultMessage": "Top van de week",
+    "description": "dishes->dish-form->MarketingToolsInput.tsx->MarketingToolsInput"
+  },
+  "fTQDRV": {
+    "defaultMessage": "Beschrijving",
+    "description": "restaurants->RestaurantForm.tsx->NameInput"
+  },
+  "gIorQU": {
+    "defaultMessage": "Vraag 3",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "ghWjl5": {
+    "defaultMessage": "Ingrediënten",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "h72PvL": {
+    "defaultMessage": "Taal",
+    "description": "profile->SettingsForm.tsx->LanguageSelect"
+  },
+  "hFXTI4": {
+    "defaultMessage": "Naam is een verplicht veld",
+    "description": "tables->TableFrom.tsx->schema"
+  },
+  "hRV4T9": {
+    "defaultMessage": "Voltooid",
+    "description": "orders->OrdersGrid.tsx->OrdersGrid"
+  },
+  "hW5+Ny": {
+    "defaultMessage": "Als je ondersteuning nodig hebt, gebruik dan een van onze contacten.",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "i9pqYw": {
+    "defaultMessage": "Telefoon:",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "iab0Si": {
+    "defaultMessage": "Vet",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "iamxsS": {
+    "defaultMessage": "* verplicht veld",
+    "description": "tables->TableFrom.tsx->NameInput"
+  },
+  "j+daVu": {
+    "defaultMessage": "Model wordt geladen...",
+    "description": "dishes->dish-form->model-overlay->ModelPreview.tsx->LoadingModelPlaceholder"
+  },
+  "jsfb5C": {
+    "defaultMessage": "Di",
+    "description": "restaurants->workingTimeInput.tsx->WorkingTime"
+  },
+  "k/fZ0g": {
+    "defaultMessage": "Orders archief",
+    "description": "orders->ArchiveHeadings.tsx->ArchiveHeading"
+  },
+  "k9T5n+": {
+    "defaultMessage": "Kleurrand",
+    "description": "dishes->dish-form->MarketingToolsInput.tsx->ColorBorderInput"
+  },
+  "kAWdSe": {
+    "defaultMessage": "Nieuwe ober",
+    "description": "tables->WaiterForm.tsx->defaultValues"
+  },
+  "khvTcV": {
+    "defaultMessage": "Zet hier neer",
+    "description": "orders->OrdersDropOverlay.tsx->OrdersDropOverlay"
+  },
+  "l6Vv9N": {
+    "defaultMessage": "Wachtwoord vergeten?",
+    "description": "auth->ForgotPasswordForm.tsx->ForgotPasswordForm"
+  },
+  "lDSLYH": {
+    "defaultMessage": "Doorgaan met sociale media",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "lTiDok": {
+    "defaultMessage": "Chef aanbevolen",
+    "description": "dishes->dish-form->MarketingToolsInput.tsx->MarketingToolsInput"
+  },
+  "lluTvc": {
+    "defaultMessage": "Je hebt geen toestemming om deze pagina te bekijken",
+    "description": "layout->cmsNav.tsx->Error403"
+  },
+  "mChnY5": {
+    "defaultMessage": "Instellingen",
+    "description": "profile->ProfileMenu.tsx->ProfileMenu"
+  },
+  "mEDNnX": {
+    "defaultMessage": "Zet hier neer",
+    "description": "dishes->CategoryDropOverlay.tsx->CategoryDropOverlay"
+  },
+  "mh/k7j": {
+    "defaultMessage": "Totaal",
+    "description": "orders->ArchiveTable.tsx->ArchiveTable"
+  },
+  "mnWTwF": {
+    "defaultMessage": "E-mail:",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "mtr8HD": {
+    "defaultMessage": "ja",
+    "description": "common->modal->ConfirmDeleteModal.tsx->ConfirmDeleteModal"
+  },
+  "n4PJKF": {
+    "defaultMessage": "Voeg nieuwe tafel toe",
+    "description": "tables->AddTableCard.tsx->AddTableCard"
+  },
+  "nG3Db8": {
+    "defaultMessage": "Vraag 6",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "nPlhJE": {
+    "defaultMessage": "Welkom bij Menudget!",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "o76qJC": {
+    "defaultMessage": "Verwijderen",
+    "description": "common->form->SaveDeleteButtons.tsx->SaveDeleteButtons"
+  },
+  "oB2UT3": {
+    "defaultMessage": "Vraag 1",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "os9pxA": {
+    "defaultMessage": "Diepte",
+    "description": "dishes->dish-form->DishModelDropZone.tsx->DishModelDropZone"
+  },
+  "p69P0z": {
+    "defaultMessage": "Ingrediënten moeten minimaal 3 tekens bevatten",
+    "description": "dishes->dish-form->DishForm.tsx->schema"
+  },
+  "p6gBuP": {
+    "defaultMessage": "Klik of sleep bestanden hier",
+    "description": "dishes->dish-form->DishModelDropZone.tsx->DishModelDropZone"
+  },
+  "pYnKep": {
+    "defaultMessage": "naam",
+    "description": "dishes->CategoryForm.tsx->PropertiesInput"
+  },
+  "pbfvZ8": {
+    "defaultMessage": "Onze ondersteuning antwoordt zo snel mogelijk nadat u contact met ons opneemt.",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "qIWLBa": {
+    "defaultMessage": "Weet u zeker dat u {name} wilt verwijderen?",
+    "description": "common->modal->ConfirmDeleteModal.tsx->ConfirmDeleteModal"
+  },
+  "qYSyLF": {
+    "defaultMessage": "Categorie aanmaken",
+    "description": "dishes->CategoryForm.tsx->Header"
+  },
+  "qmD/oo": {
+    "defaultMessage": "Calorieën",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "qqeKQZ": {
+    "defaultMessage": "Voeding",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "rNVNar": {
+    "defaultMessage": "Bestel №",
+    "description": "orders->ArchiveTable.tsx->ArchiveTable"
+  },
+  "rbXQUh": {
+    "defaultMessage": "Omschrijving",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "ryZ0sJ": {
+    "defaultMessage": "Voeg nieuw restaurant toe",
+    "description": "restaurants->AddRestaurantCard.tsx->AddRestaurantCard"
+  },
+  "sqDGPj": {
+    "defaultMessage": "Manager e-mail",
+    "description": "restaurants->RestaurantForm.tsx->ManagerEmailInput"
+  },
+  "syZRZo": {
+    "defaultMessage": "Kleurwaarde is geen geldige hex",
+    "description": "dishes->dish-form->DishForm.tsx->schema"
+  },
+  "szBnRb": {
+    "defaultMessage": "Wijzigingen opslaan",
+    "description": "profile->SettingsForm.tsx->SettingsForm"
+  },
+  "tGQl1N": {
+    "defaultMessage": "Marketingtools",
+    "description": "dishes->dish-form->MarketingToolsInput.tsx->MarketingToolsInput"
+  },
+  "tJWNlL": {
+    "defaultMessage": "We hebben lekker eten",
+    "description": "restaurants->RestaurantForm.tsx->defaultValues"
+  },
+  "tMbube": {
+    "defaultMessage": "Categorie bewerken",
+    "description": "dishes->CategoryForm.tsx->Header"
+  },
+  "tf09j4": {
+    "defaultMessage": "Antwoord 3",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "urvJdl": {
+    "defaultMessage": "Vraag 2",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "vQ/6/g": {
+    "defaultMessage": "Verzenden",
+    "description": "auth->ForgotPasswordForm.tsx->ForgotPasswordForm"
+  },
+  "vfeWQK": {
+    "defaultMessage": "Nieuw restaurant",
+    "description": "restaurants->RestaurantForm.tsx->defaultValues"
+  },
+  "w2WWwT": {
+    "defaultMessage": "Ondersteuning",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "wVv/qS": {
+    "defaultMessage": "Kelner",
+    "description": "orders->ArchiveTable.tsx->ArchiveTable"
+  },
+  "wqU08t": {
+    "defaultMessage": "Wachtwoorden komen niet overeen",
+    "description": "profile->PasswordForm.tsx->schema"
+  },
+  "wxTdoH": {
+    "defaultMessage": "of",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "x1apyM": {
+    "defaultMessage": "Geen model geüpload",
+    "description": "dishes->dish-form->model-overlay->ModelPreview.tsx->NoModelPlaceholder"
+  },
+  "xqGUI/": {
+    "defaultMessage": "Bevestig wachtwoord:",
+    "description": "auth->ChangePasswordForm.tsx->ChangePasswordForm"
+  },
+  "yEpKGh": {
+    "defaultMessage": "* verplichte velden",
+    "description": "tables->WaiterForm.tsx->WaiterForm"
+  },
+  "yTedRX": {
+    "defaultMessage": "gr",
+    "description": "dishes->dish-form->DishForm.tsx->measurementUnitOptions"
+  },
+  "z17rPU": {
+    "defaultMessage": "Model toevoegen",
+    "description": "dishes->dish-form->DishModelDropZone.tsx->DishModelDropZone"
+  },
+  "zG07k0": {
+    "defaultMessage": "Hoogte",
+    "description": "dishes->dish-form->DishModelDropZone.tsx->DishModelDropZone"
+  },
+  "zKQ07L": {
+    "defaultMessage": "Typ hier...",
+    "description": "orders->EditNoteModal.tsx->EditNoteModal"
+  },
+  "zVNRvY": {
+    "defaultMessage": "Ga terug",
+    "description": "auth->LoginFailed.tsx->LoginFailed"
+  },
+  "zZJXb/": {
+    "defaultMessage": "ja",
+    "description": "profile->ProfileMenu.tsx->ProfileMenu"
+  },
+  "zbwpZe": {
+    "defaultMessage": "Afbeeldingen toevoegen",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "/gWjjW": {
+    "defaultMessage": "Nieuwe categorie",
+    "description": "dishes->CategoriesForm.tsx->AddButton"
+  },
+  "9ChU7F": {
+    "defaultMessage": "Annuleer bestelling",
+    "description": "orders->OrderCard.tsx->collected.isDragging"
+  },
+  "Blswyz": {
+    "defaultMessage": "Nieuw gerecht",
+    "description": "dishes->dish-form->DishForm.tsx->DishFormValues"
+  },
+  "OqqPua": {
+    "defaultMessage": "Nieuwe categorie",
+    "description": "dishes->CategoryForm.tsx->defaultValues"
+  },
+  "U6qXrK": {
+    "defaultMessage": "Bestelling verwijderen",
+    "description": "orders->OrderCard.tsx->collected.isDragging"
+  },
+  "eG8+2W": {
+    "defaultMessage": "Korting",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "iX10Kw": {
+    "defaultMessage": "Bestelling bewerken",
+    "description": "orders->OrderCard.tsx->collected.isDragging"
+  },
+  "+dJAuO": {
+    "defaultMessage": "Restaurants",
+    "description": "restaurants->RestaurantsHeading.tsx->RestaurantsHeading"
+  },
+  "DFSr7F": {
+    "defaultMessage": "Tafels",
+    "description": "Navbar.tsx->TablesLink"
+  },
+  "Fc0va3": {
+    "defaultMessage": "Restaurant",
+    "description": "Navbar.tsx->RestaurantLink"
+  },
+  "R4p9X5": {
+    "defaultMessage": "Mn.-Vr.",
+    "description": "restaurants->RestaurantCard.tsx->RestaurantCard"
+  },
+  "YD8SqW": {
+    "defaultMessage": "Restaurants",
+    "description": "Navbar.tsx->RestaurantsLink"
+  },
+  "dPTJv0": {
+    "defaultMessage": "Obers",
+    "description": "Navbar.tsx->WaitersLink"
+  },
+  "hRAGMC": {
+    "defaultMessage": "Borden",
+    "description": "Navbar.tsx->DishesLink"
+  },
+  "sD751l": {
+    "defaultMessage": "Bestellingen",
+    "description": "Navbar.tsx->OrdersLink"
+  },
+  "y1iMvy": {
+    "defaultMessage": "Za.-Zo.",
+    "description": "restaurants->RestaurantCard.tsx->RestaurantCard"
+  },
+  "+IAuv8": {
+    "defaultMessage": "Borden - Menudget",
+    "description": "pages/cms/dishes/[restaurantId]->[id].tsx->DishPage"
+  },
+  "1ovNmk": {
+    "defaultMessage": "Bestellingen - Menudget",
+    "description": "pages/cms/orders->[restaurantId].tsx->RestaurantOrdersPage"
+  },
+  "2OVOVl": {
+    "defaultMessage": "Tafels - Menudget",
+    "description": "pages/cms/tables/[restaurantId]->index.tsx->RestaurantTablesPage"
+  },
+  "5QPcTx": {
+    "defaultMessage": "Bestellingen - Menudget",
+    "description": "pages/cms/orders->index.tsx->OrdersPage"
+  },
+  "BUrQow": {
+    "defaultMessage": "Obers - Menudget",
+    "description": "pages/cms/waiters/[restauranId]->index.tsx->RestaurantWaitersPage"
+  },
+  "Dh3bgZ": {
+    "defaultMessage": "Nieuwe tafel - Menudget",
+    "description": "pages/cms/tables/[restaurantId]->new.tsx->NewTablePage"
+  },
+  "GsbFqT": {
+    "defaultMessage": "Nieuw gerecht - Menudget",
+    "description": "pages/cms/dishes/[restaurantId]->new.tsx->NewDishPage"
+  },
+  "I+uLWd": {
+    "defaultMessage": "Nieuwe ober - Menudget",
+    "description": "pages/cms/waiters/[restauranId]->new.tsx->NewWaiterPage"
+  },
+  "IT1r61": {
+    "defaultMessage": "Log In - Menudget",
+    "description": "pages/cms/auth->login.tsx->LoginPage"
+  },
+  "MqNY40": {
+    "defaultMessage": "Nieuw restaurant - Menudget",
+    "description": "pages/cms/restaurants->new.tsx->NewRestaurantPage"
+  },
+  "UUphAO": {
+    "defaultMessage": "Aanmelden mislukt - Menudget",
+    "description": "pages/cms/auth->login-failed.tsx->LoginFailedPage"
+  },
+  "cb9Aox": {
+    "defaultMessage": "Obers - Menudget",
+    "description": "pages/cms/waiters->index.tsx->WaitersPage"
+  },
+  "dasPM1": {
+    "defaultMessage": "Verander uw wachtwoord - Menudget",
+    "description": "pages/cms/auth->change-password.tsx->ChangePasswordPage"
+  },
+  "fYN9Jk": {
+    "defaultMessage": "Obers - Menudget",
+    "description": "pages/cms/waiters/[restauranId]->[id].tsx->WaiterPage"
+  },
+  "jDUepM": {
+    "defaultMessage": "Borden - Menudget",
+    "description": "pages/cms/dishes/[restaurantId]->index.tsx->RestaurantDishesPage"
+  },
+  "m8UmHm": {
+    "defaultMessage": "Restaurants - Menudget",
+    "description": "pages/cms/restaurants->[id].tsx->RestaurantPage"
+  },
+  "noWYm+": {
+    "defaultMessage": "Instellingen - Menudget",
+    "description": "pages/cms/profile->settings.tsx->SettingsPage"
+  },
+  "nwUv+Q": {
+    "defaultMessage": "Steun - Menudget",
+    "description": "pages/cms/profile->support.tsx->SupportPage"
+  },
+  "sRlTRv": {
+    "defaultMessage": "Restaurants - Menudget",
+    "description": "pages/cms/restaurants->index.tsx->RestaurantPage"
+  },
+  "sdIJYI": {
+    "defaultMessage": "Borden - Menudget",
+    "description": "pages/cms/dishes/->index.tsx->DishesPage"
+  },
+  "tF2zsb": {
+    "defaultMessage": "Tafels - Menudget",
+    "description": "pages/cms/tables/[restaurantId]->[id].tsx->TablePage"
+  },
+  "ts+Zkm": {
+    "defaultMessage": "Categorieën - Menudget",
+    "description": "pages/cms/dishes/[restaurantId]/categories->index.tsx->CategoriesPage"
+  },
+  "v54l4f": {
+    "defaultMessage": "Bestellingen - Menudget",
+    "description": "pages/cms/orders/archive->[restaurantId].tsx->RestaurantArchivePage"
+  },
+  "xxurmt": {
+    "defaultMessage": "Archief - Menudget",
+    "description": "pages/cms/orders/archive->index.tsx->ArchivePage"
+  },
+  "FZqqdB": {
+    "defaultMessage": "Tafels - Menudget",
+    "description": "pages/cms/tables/->index.tsx->TablesPage"
+  },
+  "zxaSaB": {
+    "defaultMessage": "Je wachtwoord vergeten? - Menudget",
+    "description": "pages/cms/auth->forgot-password.tsx->ForgotPasswordPage"
+  },
+  "HHj7dJ": {
+    "defaultMessage": "Obers",
+    "description": "waiters->WaitersHeading.tsx->WaitersHeading"
+  },
+  "I5HqOO": {
+    "defaultMessage": "van",
+    "description": "cms/restaurants->WorkingTimeInput.tsx->TimeInput"
+  },
+  "a4rCkh": {
+    "defaultMessage": "Werkuren",
+    "description": "cms/restaurants->WorkingTimeInput.tsx->WorkingTime"
+  },
+  "wyOJ9U": {
+    "defaultMessage": "naar",
+    "description": "cms/restaurants->WorkingTimeInput.tsx->TimeInput"
+  },
+  "OZqHfU": {
+    "defaultMessage": "Typ hier...",
+    "description": "cms/orders->EditOrderModal.tsx->EditOrderModal"
+  },
+  "b4DzWY": {
+    "defaultMessage": "Allergenen",
+    "description": "cms/dishes/dish-form/->DishForm.tsx->LabelsInput"
+  },
+  "iz2Wei": {
+    "defaultMessage": "Wijzigingen opslaan",
+    "description": "cms/orders->EditOrderModal.tsx->EditOrderModal"
+  },
+  "u3ljDp": {
+    "defaultMessage": "Bon bewerken",
+    "description": "cms/orders->EditOrderModal.tsx->EditOrderModal"
+  },
+  "uuPH2t": {
+    "defaultMessage": "Toevoegen",
+    "description": "cms/orders->EditOrderModal.tsx->EditOrderModal"
+  },
+  "S09bmW": {
+    "defaultMessage": "Grens",
+    "description": "dishes->dish-form->MarketingToolsInput.tsx->MarketingToolsInput"
+  }
+}

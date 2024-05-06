@@ -1,0 +1,1408 @@
+{
+  "+IAuv8": [
+    {
+      "type": 0,
+      "value": "菜肴 - Menudget"
+    }
+  ],
+  "+dJAuO": [
+    {
+      "type": 0,
+      "value": "餐馆"
+    }
+  ],
+  "+ieMu+": [
+    {
+      "type": 0,
+      "value": "保存"
+    }
+  ],
+  "+j/axq": [
+    {
+      "type": 0,
+      "value": "新密码："
+    }
+  ],
+  "/4rm+3": [
+    {
+      "type": 0,
+      "value": "处理中"
+    }
+  ],
+  "/Mp5TY": [
+    {
+      "type": 0,
+      "value": "确认密码"
+    }
+  ],
+  "/gWjjW": [
+    {
+      "type": 0,
+      "value": "新类别"
+    }
+  ],
+  "/qw7K+": [
+    {
+      "type": 0,
+      "value": "密码"
+    }
+  ],
+  "0LED6B": [
+    {
+      "type": 0,
+      "value": "首页"
+    }
+  ],
+  "0OUYba": [
+    {
+      "type": 0,
+      "value": "支持"
+    }
+  ],
+  "1BhBh3": [
+    {
+      "type": 0,
+      "value": "星期五"
+    }
+  ],
+  "1ovNmk": [
+    {
+      "type": 0,
+      "value": "命令 - Menudget"
+    }
+  ],
+  "1sz7b+": [
+    {
+      "type": 0,
+      "value": "您的新密码必须与先前使用的密码不同"
+    }
+  ],
+  "24MyNi": [
+    {
+      "type": 0,
+      "value": "添加新服务员"
+    }
+  ],
+  "2OVOVl": [
+    {
+      "type": 0,
+      "value": "表格 - Menudget"
+    }
+  ],
+  "2PyDMz": [
+    {
+      "type": 0,
+      "value": "进行中"
+    }
+  ],
+  "3KMXKw": [
+    {
+      "type": 0,
+      "value": "打开模型预览"
+    }
+  ],
+  "3WKI6x": [
+    {
+      "type": 0,
+      "value": "密码重置成功"
+    }
+  ],
+  "3jKdiw": [
+    {
+      "type": 0,
+      "value": "前往"
+    }
+  ],
+  "43OhbU": [
+    {
+      "type": 0,
+      "value": "名称应至少包含3个字符"
+    }
+  ],
+  "4AZhlb": [
+    {
+      "type": 0,
+      "value": "搜索订单"
+    }
+  ],
+  "4gTkXT": [
+    {
+      "type": 0,
+      "value": "答案1"
+    }
+  ],
+  "4lxG7u": [
+    {
+      "type": 0,
+      "value": "取消"
+    }
+  ],
+  "5CbC0r": [
+    {
+      "type": 0,
+      "value": "移至归档"
+    }
+  ],
+  "5LxxvK": [
+    {
+      "type": 0,
+      "value": "移除"
+    }
+  ],
+  "5QPcTx": [
+    {
+      "type": 0,
+      "value": "命令 - Menudget"
+    }
+  ],
+  "6WV8PH": [
+    {
+      "type": 0,
+      "value": "占用"
+    }
+  ],
+  "6woQQ2": [
+    {
+      "type": 0,
+      "value": "星期一"
+    }
+  ],
+  "7DJkn/": [
+    {
+      "type": 0,
+      "value": "答案5"
+    }
+  ],
+  "7bQzQH": [
+    {
+      "type": 0,
+      "value": "答案2"
+    }
+  ],
+  "7y6ZH+": [
+    {
+      "type": 0,
+      "value": "碳水化合物"
+    }
+  ],
+  "8BaINU": [
+    {
+      "type": 0,
+      "value": "备注"
+    }
+  ],
+  "8MQUwb": [
+    {
+      "type": 0,
+      "value": "星期四"
+    }
+  ],
+  "8RZQGr": [
+    {
+      "type": 0,
+      "value": "隐私政策"
+    }
+  ],
+  "8aLbnp": [
+    {
+      "type": 0,
+      "value": "桌子"
+    }
+  ],
+  "8abULR": [
+    {
+      "type": 0,
+      "value": "电子邮件*"
+    }
+  ],
+  "8d7OT8": [
+    {
+      "type": 0,
+      "value": "点击或拖放文件至此"
+    }
+  ],
+  "8et7Mn": [
+    {
+      "type": 0,
+      "value": "是否遇到问题？"
+    }
+  ],
+  "8pZT/n": [
+    {
+      "type": 0,
+      "value": "更改您的密码"
+    }
+  ],
+  "8qW4QW": [
+    {
+      "type": 0,
+      "value": "菜肴"
+    }
+  ],
+  "9ChU7F": [
+    {
+      "type": 0,
+      "value": "取消订单"
+    }
+  ],
+  "AQvdtk": [
+    {
+      "type": 0,
+      "value": "忘记密码？"
+    }
+  ],
+  "AdOqUA": [
+    {
+      "type": 0,
+      "value": "将文件拖到此处..."
+    }
+  ],
+  "BCcd3F": [
+    {
+      "type": 0,
+      "value": "至少应选择1个标签"
+    }
+  ],
+  "BHGilS": [
+    {
+      "type": 0,
+      "value": "返回"
+    }
+  ],
+  "BUrQow": [
+    {
+      "type": 0,
+      "value": "服务员 - Menudget"
+    }
+  ],
+  "BWeNYp": [
+    {
+      "type": 0,
+      "value": "名称"
+    }
+  ],
+  "BgPfBP": [
+    {
+      "type": 0,
+      "value": "你好，"
+    },
+    {
+      "type": 1,
+      "value": "userName"
+    }
+  ],
+  "Blswyz": [
+    {
+      "type": 0,
+      "value": "新菜品"
+    }
+  ],
+  "C+e4j8": [
+    {
+      "type": 0,
+      "value": "名称*"
+    }
+  ],
+  "Cafcg9": [
+    {
+      "type": 0,
+      "value": "为所有天粘贴相同的时间"
+    }
+  ],
+  "CozdSB": [
+    {
+      "type": 0,
+      "value": "毫升"
+    }
+  ],
+  "DDuWKi": [
+    {
+      "type": 0,
+      "value": "显示QR码"
+    }
+  ],
+  "DFSr7F": [
+    {
+      "type": 0,
+      "value": "桌子"
+    }
+  ],
+  "Dh3bgZ": [
+    {
+      "type": 0,
+      "value": "新表 - Menudget"
+    }
+  ],
+  "DqlcuR": [
+    {
+      "type": 0,
+      "value": "所有类别："
+    }
+  ],
+  "Eg15/l": [
+    {
+      "type": 0,
+      "value": "周三"
+    }
+  ],
+  "Ehtx8V": [
+    {
+      "type": 0,
+      "value": "周六"
+    }
+  ],
+  "F6sa0t": [
+    {
+      "type": 0,
+      "value": "注释"
+    }
+  ],
+  "FUAtln": [
+    {
+      "type": 0,
+      "value": "测量单位"
+    }
+  ],
+  "FZ6QGI": [
+    {
+      "type": 0,
+      "value": "周日"
+    }
+  ],
+  "FZqqdB": [
+    {
+      "type": 0,
+      "value": "表格 - Menudget"
+    }
+  ],
+  "FbYlRy": [
+    {
+      "type": 0,
+      "value": "类别"
+    }
+  ],
+  "Fc0T4O": [
+    {
+      "type": 0,
+      "value": "答案6"
+    }
+  ],
+  "Fc0va3": [
+    {
+      "type": 0,
+      "value": "餐厅"
+    }
+  ],
+  "G+WokM": [
+    {
+      "type": 0,
+      "value": "密码"
+    }
+  ],
+  "GouM3V": [
+    {
+      "type": 0,
+      "value": "登录失败！"
+    }
+  ],
+  "GsbFqT": [
+    {
+      "type": 0,
+      "value": "新菜品 - Menudget"
+    }
+  ],
+  "HASNSE": [
+    {
+      "type": 0,
+      "value": "新密码"
+    }
+  ],
+  "HHj7dJ": [
+    {
+      "type": 0,
+      "value": "服务员"
+    }
+  ],
+  "Hrteqc": [
+    {
+      "type": 0,
+      "value": "电子邮件"
+    }
+  ],
+  "I+uLWd": [
+    {
+      "type": 0,
+      "value": "新服务员 - Menudget"
+    }
+  ],
+  "I5HqOO": [
+    {
+      "type": 0,
+      "value": "从"
+    }
+  ],
+  "I7YVqS": [
+    {
+      "type": 0,
+      "value": "个人资料设置"
+    }
+  ],
+  "IT1r61": [
+    {
+      "type": 0,
+      "value": "登录 - Menudget"
+    }
+  ],
+  "IgYXjd": [
+    {
+      "type": 0,
+      "value": "蛋白质"
+    }
+  ],
+  "IhcPD8": [
+    {
+      "type": 0,
+      "value": "返回登录"
+    }
+  ],
+  "JwqSE5": [
+    {
+      "type": 0,
+      "value": "很高兴见到您！登录到您的账户！"
+    }
+  ],
+  "KS292J": [
+    {
+      "type": 0,
+      "value": "描述至少应包含3个字符"
+    }
+  ],
+  "KvT3Be": [
+    {
+      "type": 0,
+      "value": "答案4"
+    }
+  ],
+  "LBX4WW": [
+    {
+      "type": 0,
+      "value": "保存更改"
+    }
+  ],
+  "LvmgQd": [
+    {
+      "type": 0,
+      "value": "这是一道美味的菜"
+    }
+  ],
+  "M3OfiI": [
+    {
+      "type": 0,
+      "value": "宽度"
+    }
+  ],
+  "MIg15T": [
+    {
+      "type": 0,
+      "value": "创建"
+    },
+    {
+      "type": 1,
+      "value": "name"
+    }
+  ],
+  "MLKLVm": [
+    {
+      "type": 0,
+      "value": "退出登录"
+    }
+  ],
+  "MqNY40": [
+    {
+      "type": 0,
+      "value": "新餐厅 - Menudget"
+    }
+  ],
+  "NqjPpm": [
+    {
+      "type": 0,
+      "value": "编辑备注"
+    }
+  ],
+  "NzIJK7": [
+    {
+      "type": 0,
+      "value": "测量数值"
+    }
+  ],
+  "O+9qkw": [
+    {
+      "type": 0,
+      "value": "电子邮件："
+    }
+  ],
+  "OLBeMv": [
+    {
+      "type": 0,
+      "value": "桌子"
+    }
+  ],
+  "ONwtvJ": [
+    {
+      "type": 0,
+      "value": "占用情况："
+    }
+  ],
+  "OZqHfU": [
+    {
+      "type": 0,
+      "value": "在此输入..."
+    }
+  ],
+  "OqqPua": [
+    {
+      "type": 0,
+      "value": "新类别"
+    }
+  ],
+  "P+Sv6B": [
+    {
+      "type": 0,
+      "value": "您确定要注销吗？"
+    }
+  ],
+  "P/Ks9N": [
+    {
+      "type": 0,
+      "value": "下载QR码"
+    }
+  ],
+  "PCTh6H": [
+    {
+      "type": 0,
+      "value": "问题4"
+    }
+  ],
+  "Q0GclD": [
+    {
+      "type": 0,
+      "value": "千克"
+    }
+  ],
+  "Q5wfnM": [
+    {
+      "type": 0,
+      "value": "让你的菜更有吸引力！"
+    }
+  ],
+  "QTaLIB": [
+    {
+      "type": 0,
+      "value": "类别应至少包含3个字符"
+    }
+  ],
+  "R4p9X5": [
+    {
+      "type": 0,
+      "value": "锰-神父。"
+    }
+  ],
+  "RWvQJO": [
+    {
+      "type": 0,
+      "value": "备注"
+    }
+  ],
+  "RxtRx6": [
+    {
+      "type": 0,
+      "value": "保存"
+    }
+  ],
+  "S09bmW": [
+    {
+      "type": 0,
+      "value": "边界"
+    }
+  ],
+  "S8ecya": [
+    {
+      "type": 0,
+      "value": "修改密码"
+    }
+  ],
+  "SExSe1": [
+    {
+      "type": 0,
+      "value": "新建桌子"
+    }
+  ],
+  "ScZRjH": [
+    {
+      "type": 0,
+      "value": "个人设置"
+    }
+  ],
+  "T4qZnh": [
+    {
+      "type": 0,
+      "value": "问题5"
+    }
+  ],
+  "T7So3Z": [
+    {
+      "type": 0,
+      "value": "登录"
+    }
+  ],
+  "U6qXrK": [
+    {
+      "type": 0,
+      "value": "删除订单"
+    }
+  ],
+  "U7hSS5": [
+    {
+      "type": 0,
+      "value": "姓名是必填项"
+    }
+  ],
+  "UUphAO": [
+    {
+      "type": 0,
+      "value": "登录失败 - Menudget"
+    }
+  ],
+  "UdgZyE": [
+    {
+      "type": 0,
+      "value": "姓名*"
+    }
+  ],
+  "Ug7ZlS": [
+    {
+      "type": 0,
+      "value": "货币"
+    }
+  ],
+  "V16hmr": [
+    {
+      "type": 0,
+      "value": "编辑"
+    },
+    {
+      "type": 1,
+      "value": "name"
+    }
+  ],
+  "V8ZBNQ": [
+    {
+      "type": 0,
+      "value": "日期"
+    }
+  ],
+  "VWI5+f": [
+    {
+      "type": 0,
+      "value": "保存"
+    }
+  ],
+  "VWO1sJ": [
+    {
+      "type": 0,
+      "value": "桌子"
+    }
+  ],
+  "W8j9OA": [
+    {
+      "type": 0,
+      "value": "密码："
+    }
+  ],
+  "WNlVUu": [
+    {
+      "type": 0,
+      "value": "订单"
+    }
+  ],
+  "WVbXfh": [
+    {
+      "type": 0,
+      "value": "电子邮件"
+    }
+  ],
+  "YD8SqW": [
+    {
+      "type": 0,
+      "value": "餐馆"
+    }
+  ],
+  "YTeQmg": [
+    {
+      "type": 0,
+      "value": "电子邮件是必填项"
+    }
+  ],
+  "ZJO1vp": [
+    {
+      "type": 0,
+      "value": "电子邮件"
+    }
+  ],
+  "Zb5dPz": [
+    {
+      "type": 0,
+      "value": "额外类别"
+    }
+  ],
+  "ZsnUV+": [
+    {
+      "type": 0,
+      "value": "电子邮件："
+    }
+  ],
+  "Zu7S1p": [
+    {
+      "type": 0,
+      "value": "取消"
+    }
+  ],
+  "a4rCkh": [
+    {
+      "type": 0,
+      "value": "工作时间"
+    }
+  ],
+  "b/YOwn": [
+    {
+      "type": 0,
+      "value": "添加横幅"
+    }
+  ],
+  "b4DzWY": [
+    {
+      "type": 0,
+      "value": "过敏原"
+    }
+  ],
+  "bEMXh3": [
+    {
+      "type": 0,
+      "value": "价格"
+    }
+  ],
+  "bmfz7U": [
+    {
+      "type": 0,
+      "value": "添加新菜品"
+    }
+  ],
+  "bs2321": [
+    {
+      "type": 0,
+      "value": "升"
+    }
+  ],
+  "bycHoP": [
+    {
+      "type": 0,
+      "value": "请输入您的电子邮件地址，以接收您的验证码"
+    }
+  ],
+  "cb9Aox": [
+    {
+      "type": 0,
+      "value": "服务员 - Menudget"
+    }
+  ],
+  "cdYiPd": [
+    {
+      "type": 0,
+      "value": "如果您的电子邮件在我们的系统中，您将很快收到重置密码的说明。"
+    }
+  ],
+  "cufXoZ": [
+    {
+      "type": 0,
+      "value": "服务员"
+    }
+  ],
+  "dJxu8T": [
+    {
+      "type": 0,
+      "value": "辣度"
+    }
+  ],
+  "dPTJv0": [
+    {
+      "type": 0,
+      "value": "服务员"
+    }
+  ],
+  "dasPM1": [
+    {
+      "type": 0,
+      "value": "更改您的密码 - Menudget"
+    }
+  ],
+  "eG8+2W": [
+    {
+      "type": 0,
+      "value": "折扣"
+    }
+  ],
+  "eHNiK5": [
+    {
+      "type": 0,
+      "value": "添加徽标"
+    }
+  ],
+  "eWk+/S": [
+    {
+      "type": 0,
+      "value": "通过点击上面的“登录”，您确认您已阅读、理解并同意 "
+    }
+  ],
+  "evYEY3": [
+    {
+      "type": 0,
+      "value": "请求已提交"
+    }
+  ],
+  "fB8rMX": [
+    {
+      "type": 0,
+      "value": "姓名"
+    }
+  ],
+  "fI8c2I": [
+    {
+      "type": 0,
+      "value": "本周之星"
+    }
+  ],
+  "fTQDRV": [
+    {
+      "type": 0,
+      "value": "描述"
+    }
+  ],
+  "fYN9Jk": [
+    {
+      "type": 0,
+      "value": "服务员 - Menudget"
+    }
+  ],
+  "gIorQU": [
+    {
+      "type": 0,
+      "value": "问题3"
+    }
+  ],
+  "ghWjl5": [
+    {
+      "type": 0,
+      "value": "成分"
+    }
+  ],
+  "h72PvL": [
+    {
+      "type": 0,
+      "value": "语言"
+    }
+  ],
+  "hFXTI4": [
+    {
+      "type": 0,
+      "value": "姓名是必填项"
+    }
+  ],
+  "hRAGMC": [
+    {
+      "type": 0,
+      "value": "菜肴"
+    }
+  ],
+  "hRV4T9": [
+    {
+      "type": 0,
+      "value": "完成"
+    }
+  ],
+  "hW5+Ny": [
+    {
+      "type": 0,
+      "value": "如果您需要支持，请使用我们的任何联系方式。"
+    }
+  ],
+  "i9pqYw": [
+    {
+      "type": 0,
+      "value": "电话："
+    }
+  ],
+  "iX10Kw": [
+    {
+      "type": 0,
+      "value": "编辑订单"
+    }
+  ],
+  "iab0Si": [
+    {
+      "type": 0,
+      "value": "脂肪"
+    }
+  ],
+  "iamxsS": [
+    {
+      "type": 0,
+      "value": "* 必填字段"
+    }
+  ],
+  "iz2Wei": [
+    {
+      "type": 0,
+      "value": "保存更改"
+    }
+  ],
+  "j+daVu": [
+    {
+      "type": 0,
+      "value": "加载模型..."
+    }
+  ],
+  "jDUepM": [
+    {
+      "type": 0,
+      "value": "菜肴 - Menudget"
+    }
+  ],
+  "jsfb5C": [
+    {
+      "type": 0,
+      "value": "星期二"
+    }
+  ],
+  "k/fZ0g": [
+    {
+      "type": 0,
+      "value": "订单存档"
+    }
+  ],
+  "k9T5n+": [
+    {
+      "type": 0,
+      "value": "颜色边框"
+    }
+  ],
+  "kAWdSe": [
+    {
+      "type": 0,
+      "value": "新服务员"
+    }
+  ],
+  "khvTcV": [
+    {
+      "type": 0,
+      "value": "在此处放下"
+    }
+  ],
+  "l6Vv9N": [
+    {
+      "type": 0,
+      "value": "忘记密码？"
+    }
+  ],
+  "lDSLYH": [
+    {
+      "type": 0,
+      "value": "继续使用社交媒体"
+    }
+  ],
+  "lTiDok": [
+    {
+      "type": 0,
+      "value": "厨师推荐"
+    }
+  ],
+  "lluTvc": [
+    {
+      "type": 0,
+      "value": "您无权查看此页面"
+    }
+  ],
+  "m8UmHm": [
+    {
+      "type": 0,
+      "value": "餐厅 - Menudget"
+    }
+  ],
+  "mChnY5": [
+    {
+      "type": 0,
+      "value": "设置"
+    }
+  ],
+  "mEDNnX": [
+    {
+      "type": 0,
+      "value": "在此处放下"
+    }
+  ],
+  "mh/k7j": [
+    {
+      "type": 0,
+      "value": "总计"
+    }
+  ],
+  "mnWTwF": [
+    {
+      "type": 0,
+      "value": "电子邮件："
+    }
+  ],
+  "mtr8HD": [
+    {
+      "type": 0,
+      "value": "是"
+    }
+  ],
+  "n4PJKF": [
+    {
+      "type": 0,
+      "value": "添加新桌子"
+    }
+  ],
+  "nG3Db8": [
+    {
+      "type": 0,
+      "value": "问题6"
+    }
+  ],
+  "nPlhJE": [
+    {
+      "type": 0,
+      "value": "欢迎使用Menudget！"
+    }
+  ],
+  "noWYm+": [
+    {
+      "type": 0,
+      "value": "设置 - Menudget"
+    }
+  ],
+  "nwUv+Q": [
+    {
+      "type": 0,
+      "value": "支持 - Menudget"
+    }
+  ],
+  "o76qJC": [
+    {
+      "type": 0,
+      "value": "删除"
+    }
+  ],
+  "oB2UT3": [
+    {
+      "type": 0,
+      "value": "问题1"
+    }
+  ],
+  "os9pxA": [
+    {
+      "type": 0,
+      "value": "深度"
+    }
+  ],
+  "p69P0z": [
+    {
+      "type": 0,
+      "value": "成分应至少包含3个字符"
+    }
+  ],
+  "p6gBuP": [
+    {
+      "type": 0,
+      "value": "点击或在此处放下文件"
+    }
+  ],
+  "pYnKep": [
+    {
+      "type": 0,
+      "value": "名称"
+    }
+  ],
+  "pbfvZ8": [
+    {
+      "type": 0,
+      "value": "我们的支持将在您联系我们后尽快回复。"
+    }
+  ],
+  "qIWLBa": [
+    {
+      "type": 0,
+      "value": "您确定要删除"
+    },
+    {
+      "type": 1,
+      "value": "name"
+    },
+    {
+      "type": 0,
+      "value": "吗？"
+    }
+  ],
+  "qYSyLF": [
+    {
+      "type": 0,
+      "value": "创建类别"
+    }
+  ],
+  "qmD/oo": [
+    {
+      "type": 0,
+      "value": "卡路里"
+    }
+  ],
+  "qqeKQZ": [
+    {
+      "type": 0,
+      "value": "营养"
+    }
+  ],
+  "rNVNar": [
+    {
+      "type": 0,
+      "value": "订单号"
+    }
+  ],
+  "rbXQUh": [
+    {
+      "type": 0,
+      "value": "描述"
+    }
+  ],
+  "ryZ0sJ": [
+    {
+      "type": 0,
+      "value": "添加新餐厅"
+    }
+  ],
+  "sD751l": [
+    {
+      "type": 0,
+      "value": "命令"
+    }
+  ],
+  "sRlTRv": [
+    {
+      "type": 0,
+      "value": "餐厅 - Menudget"
+    }
+  ],
+  "sdIJYI": [
+    {
+      "type": 0,
+      "value": "菜肴 - Menudget"
+    }
+  ],
+  "sqDGPj": [
+    {
+      "type": 0,
+      "value": "经理电子邮件"
+    }
+  ],
+  "syZRZo": [
+    {
+      "type": 0,
+      "value": "颜色值不是有效的十六进制"
+    }
+  ],
+  "szBnRb": [
+    {
+      "type": 0,
+      "value": "保存更改"
+    }
+  ],
+  "tF2zsb": [
+    {
+      "type": 0,
+      "value": "表格 - Menudget"
+    }
+  ],
+  "tGQl1N": [
+    {
+      "type": 0,
+      "value": "营销工具"
+    }
+  ],
+  "tJWNlL": [
+    {
+      "type": 0,
+      "value": "我们有美味的食物"
+    }
+  ],
+  "tMbube": [
+    {
+      "type": 0,
+      "value": "编辑类别"
+    }
+  ],
+  "tf09j4": [
+    {
+      "type": 0,
+      "value": "回答 3"
+    }
+  ],
+  "ts+Zkm": [
+    {
+      "type": 0,
+      "value": "类别 - Menudget"
+    }
+  ],
+  "u3ljDp": [
+    {
+      "type": 0,
+      "value": "编辑收据"
+    }
+  ],
+  "urvJdl": [
+    {
+      "type": 0,
+      "value": "问题 2"
+    }
+  ],
+  "uuPH2t": [
+    {
+      "type": 0,
+      "value": "添加"
+    }
+  ],
+  "v54l4f": [
+    {
+      "type": 0,
+      "value": "命令 - Menudget"
+    }
+  ],
+  "vQ/6/g": [
+    {
+      "type": 0,
+      "value": "发送"
+    }
+  ],
+  "vfeWQK": [
+    {
+      "type": 0,
+      "value": "新餐厅"
+    }
+  ],
+  "w2WWwT": [
+    {
+      "type": 0,
+      "value": "支持"
+    }
+  ],
+  "wVv/qS": [
+    {
+      "type": 0,
+      "value": "服务员"
+    }
+  ],
+  "wqU08t": [
+    {
+      "type": 0,
+      "value": "密码不匹配"
+    }
+  ],
+  "wxTdoH": [
+    {
+      "type": 0,
+      "value": "或"
+    }
+  ],
+  "wyOJ9U": [
+    {
+      "type": 0,
+      "value": "到"
+    }
+  ],
+  "x1apyM": [
+    {
+      "type": 0,
+      "value": "没有上传模型"
+    }
+  ],
+  "xqGUI/": [
+    {
+      "type": 0,
+      "value": "确认密码："
+    }
+  ],
+  "xxurmt": [
+    {
+      "type": 0,
+      "value": "档案 - Menudget"
+    }
+  ],
+  "y1iMvy": [
+    {
+      "type": 0,
+      "value": "周六周日。"
+    }
+  ],
+  "yEpKGh": [
+    {
+      "type": 0,
+      "value": "* 必填字段"
+    }
+  ],
+  "yTedRX": [
+    {
+      "type": 0,
+      "value": "克"
+    }
+  ],
+  "z17rPU": [
+    {
+      "type": 0,
+      "value": "添加模型"
+    }
+  ],
+  "zG07k0": [
+    {
+      "type": 0,
+      "value": "高度"
+    }
+  ],
+  "zKQ07L": [
+    {
+      "type": 0,
+      "value": "在此输入..."
+    }
+  ],
+  "zVNRvY": [
+    {
+      "type": 0,
+      "value": "返回"
+    }
+  ],
+  "zZJXb/": [
+    {
+      "type": 0,
+      "value": "是"
+    }
+  ],
+  "zbwpZe": [
+    {
+      "type": 0,
+      "value": "添加图片"
+    }
+  ],
+  "zxaSaB": [
+    {
+      "type": 0,
+      "value": "忘记密码了吗？ - Menudget"
+    }
+  ]
+}

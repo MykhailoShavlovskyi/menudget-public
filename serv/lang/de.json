@@ -1,0 +1,927 @@
+{
+  "+ieMu+": {
+    "defaultMessage": "Speichern",
+    "description": "auth->ChangePasswordForm.tsx->ChangePasswordForm"
+  },
+  "+j/axq": {
+    "defaultMessage": "Neues Passwort:",
+    "description": "auth->ChangePasswordForm.tsx->ChangePasswordForm"
+  },
+  "/4rm+3": {
+    "defaultMessage": "In Bearbeitung",
+    "description": "orders->OrdersGrid.tsx->OrdersGrid"
+  },
+  "/Mp5TY": {
+    "defaultMessage": "Passwort bestätigen",
+    "description": "profile->PasswordForm.tsx->PasswordForm"
+  },
+  "/qw7K+": {
+    "defaultMessage": "Passwort",
+    "description": "profile->SettingsForm.tsx->SettingsForm"
+  },
+  "0LED6B": {
+    "defaultMessage": "Startseite",
+    "description": "auth->ChangePasswordForm.tsx->ChangePasswordForm"
+  },
+  "0OUYba": {
+    "defaultMessage": "Support",
+    "description": "profile->ProfileMenu.tsx->ProfileMenu"
+  },
+  "1BhBh3": {
+    "defaultMessage": "Fr",
+    "description": "restaurants->workingTimeInput.tsx->WorkingTime"
+  },
+  "1sz7b+": {
+    "defaultMessage": "Ihr neues Passwort muss sich von zuvor verwendeten Passwörtern unterscheiden",
+    "description": "auth->ChangePasswordForm.tsx->ChangePasswordForm"
+  },
+  "24MyNi": {
+    "defaultMessage": "Neuen Kellner hinzufügen",
+    "description": "tables->AddWaiterCard.tsx->AddWaiterCard"
+  },
+  "2PyDMz": {
+    "defaultMessage": "In Bearbeitung",
+    "description": "orders->OrdersGrid.tsx->OrdersGrid"
+  },
+  "3KMXKw": {
+    "defaultMessage": "Modellvorschau öffnen",
+    "description": "dishes->dish-form->DishModelDropZone.tsx->DishModelDropZone"
+  },
+  "3WKI6x": {
+    "defaultMessage": "Passwort erfolgreich zurückgesetzt",
+    "description": "auth->ChangePasswordForm.tsx->ChangePasswordForm"
+  },
+  "3jKdiw": {
+    "defaultMessage": "Gehe zu",
+    "description": "auth->ChangePasswordForm.tsx->ChangePasswordForm"
+  },
+  "43OhbU": {
+    "defaultMessage": "Der Name sollte mindestens 3 Zeichen enthalten",
+    "description": "dishes->dish-form->DishForm.tsx->schema"
+  },
+  "4AZhlb": {
+    "defaultMessage": "Bestellung suchen",
+    "description": "orders->ArchiveTable.tsx->ArchiveTable"
+  },
+  "4gTkXT": {
+    "defaultMessage": "Antwort 1",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "4lxG7u": {
+    "defaultMessage": "Abbrechen",
+    "description": "profile->ProfileMenu.tsx->ProfileMenu"
+  },
+  "5CbC0r": {
+    "defaultMessage": "In Archiv verschieben",
+    "description": "orders->OrderCards.tsx->collected.isDragging"
+  },
+  "5LxxvK": {
+    "defaultMessage": "Entfernen",
+    "description": "dishes->dish-form->DishModelDropZone.tsx->FileItem"
+  },
+  "6WV8PH": {
+    "defaultMessage": "Belegung",
+    "description": "tables->TableFrom.tsx->OccupancyInput"
+  },
+  "6woQQ2": {
+    "defaultMessage": "Mo",
+    "description": "restaurants->workingTimeInput.tsx->WorkingTime"
+  },
+  "7DJkn/": {
+    "defaultMessage": "Antwort 5",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "7bQzQH": {
+    "defaultMessage": "Antwort 2",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "7y6ZH+": {
+    "defaultMessage": "Kohlenhydrate",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "8BaINU": {
+    "defaultMessage": "Notizen",
+    "description": "tables->WaiterForm.tsx->NotesInput"
+  },
+  "8MQUwb": {
+    "defaultMessage": "Do",
+    "description": "restaurants->workingTimeInput.tsx->WorkingTime"
+  },
+  "8RZQGr": {
+    "defaultMessage": "Datenschutzbestimmungen",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "8aLbnp": {
+    "defaultMessage": "Tisch",
+    "description": "orders->ArchiveTable.tsx->ArchiveTable"
+  },
+  "8abULR": {
+    "defaultMessage": "E-Mail*",
+    "description": "tables->WaiterForm.tsx->EmailInput"
+  },
+  "8d7OT8": {
+    "defaultMessage": "Klicken Sie hier oder ziehen Sie Dateien hierher",
+    "description": "common->formik->ImageUploaderContent.tsx->ImageUploaderContent"
+  },
+  "8et7Mn": {
+    "defaultMessage": "Haben Sie Probleme?",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "8pZT/n": {
+    "defaultMessage": "Ändern Sie Ihr Passwort",
+    "description": "auth->ChangePasswordForm.tsx->ChangePasswordForm"
+  },
+  "8qW4QW": {
+    "defaultMessage": "Gerichte",
+    "description": "dishes->DishesHeading.tsx->DishesHeading"
+  },
+  "AQvdtk": {
+    "defaultMessage": "Passwort vergessen?",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "AdOqUA": {
+    "defaultMessage": "Dateien hier ablegen...",
+    "description": "dishes->dish-form->DishModelDropZone.tsx->DishModelDropZone"
+  },
+  "BCcd3F": {
+    "defaultMessage": "Mindestens 1 Label auswählen",
+    "description": "dishes->dish-form->DishForm.tsx->schema"
+  },
+  "BHGilS": {
+    "defaultMessage": "Zurück",
+    "description": "profile->PasswordForm.tsx->PasswordForm"
+  },
+  "BWeNYp": {
+    "defaultMessage": "Name",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "BgPfBP": {
+    "defaultMessage": "Hallo, {userName}",
+    "description": "profile->ProfileMenu.tsx->ProfileMenu"
+  },
+  "C+e4j8": {
+    "defaultMessage": "Name*",
+    "description": "tables->TableFrom.tsx->NameInput"
+  },
+  "Cafcg9": {
+    "defaultMessage": "Gleiche Zeit für alle Tage einfügen",
+    "description": "restaurants->workingTimeInput.tsx->WorkingTime"
+  },
+  "CozdSB": {
+    "defaultMessage": "ml",
+    "description": "dishes->dish-form->DishForm.tsx->measurementUnitOptions"
+  },
+  "DDuWKi": {
+    "defaultMessage": "QR-Code anzeigen",
+    "description": "tables->TableCard.tsx->TableCard"
+  },
+  "DqlcuR": {
+    "defaultMessage": "Alle Kategorien:",
+    "description": "dishes->CategoriesForm.tsx->Items"
+  },
+  "Eg15/l": {
+    "defaultMessage": "Mi",
+    "description": "restaurants->workingTimeInput.tsx->WorkingTime"
+  },
+  "Ehtx8V": {
+    "defaultMessage": "Sa",
+    "description": "restaurants->workingTimeInput.tsx->WorkingTime"
+  },
+  "F6sa0t": {
+    "defaultMessage": "Notiz",
+    "description": "orders->EditNoteModal.tsx->EditNoteModal"
+  },
+  "FUAtln": {
+    "defaultMessage": "Einheit",
+    "description": "dishes->dish-form->DishForm.tsx->CategorySelect"
+  },
+  "FZ6QGI": {
+    "defaultMessage": "So",
+    "description": "restaurants->workingTimeInput.tsx->WorkingTime"
+  },
+  "FbYlRy": {
+    "defaultMessage": "Kategorie",
+    "description": "dishes->dish-form->DishForm.tsx->CategorySelect"
+  },
+  "Fc0T4O": {
+    "defaultMessage": "Antwort 6",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "G+WokM": {
+    "defaultMessage": "Passwort",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "GouM3V": {
+    "defaultMessage": "Anmeldung fehlgeschlagen!",
+    "description": "auth->LoginFailed.tsx->LoginFailed"
+  },
+  "HASNSE": {
+    "defaultMessage": "Neues Passwort",
+    "description": "profile->PasswordForm.tsx->PasswordForm"
+  },
+  "Hrteqc": {
+    "defaultMessage": "E-Mail",
+    "description": "auth->ForgotPasswordForm.tsx->ForgotPasswordForm"
+  },
+  "I7YVqS": {
+    "defaultMessage": "Profil-Einstellungen",
+    "description": "profile->PasswordForm.tsx->PasswordForm"
+  },
+  "IgYXjd": {
+    "defaultMessage": "Protein",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "IhcPD8": {
+    "defaultMessage": "Zurück zur Anmeldung",
+    "description": "auth->ForgotPasswordForm.tsx->ForgotPasswordForm"
+  },
+  "JwqSE5": {
+    "defaultMessage": "Schön, dich zu sehen! Melde dich bei deinem Konto an!",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "KS292J": {
+    "defaultMessage": "Beschreibung muss mindestens 3 Zeichen enthalten",
+    "description": "dishes->dish-form->DishForm.tsx->schema"
+  },
+  "KvT3Be": {
+    "defaultMessage": "Antwort 4",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "LBX4WW": {
+    "defaultMessage": "Änderungen speichern",
+    "description": "orders->EditNoteModal.tsx->EditNoteModal"
+  },
+  "LvmgQd": {
+    "defaultMessage": "Das ist ein leckeres Gericht",
+    "description": "dishes->dish-form->DishForm.tsx->DishFormValues"
+  },
+  "M3OfiI": {
+    "defaultMessage": "Breite",
+    "description": "dishes->dish-form->DishModelDropZone.tsx->DishModelDropZone"
+  },
+  "MIg15T": {
+    "defaultMessage": "Erstellen Sie {name}",
+    "description": "common->form->FormHeader.tsx->FormHeader"
+  },
+  "MLKLVm": {
+    "defaultMessage": "Ausloggen",
+    "description": "profile->ProfileMenu.tsx->ProfileMenu"
+  },
+  "NqjPpm": {
+    "defaultMessage": "Notiz bearbeiten",
+    "description": "orders->EditNoteModal.tsx->EditNoteModal"
+  },
+  "NzIJK7": {
+    "defaultMessage": "Messwert",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "O+9qkw": {
+    "defaultMessage": "E-Mail:",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "OLBeMv": {
+    "defaultMessage": "Tische",
+    "description": "tables->TablesHeading.tsx->TablesHeading"
+  },
+  "ONwtvJ": {
+    "defaultMessage": "Belegung:",
+    "description": "tables->TableCard.tsx->TableCard"
+  },
+  "P+Sv6B": {
+    "defaultMessage": "Sind Sie sicher, dass Sie sich abmelden möchten?",
+    "description": "profile->ProfileMenu.tsx->ProfileMenu"
+  },
+  "P/Ks9N": {
+    "defaultMessage": "QR-Code herunterladen",
+    "description": "tables->TableCard.tsx->DownloadButtonLabel"
+  },
+  "PCTh6H": {
+    "defaultMessage": "Frage 4",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "Q0GclD": {
+    "defaultMessage": "kg",
+    "description": "dishes->dish-form->DishForm.tsx->measurementUnitOptions"
+  },
+  "Q5wfnM": {
+    "defaultMessage": "Machen Sie Ihre Gerichte attraktiver!",
+    "description": "dishes->dish-form->MarketingToolsInput.tsx->MarketingToolsInput"
+  },
+  "QTaLIB": {
+    "defaultMessage": "Kategorie sollte mindestens 3 Zeichen enthalten",
+    "description": "dishes->CategoryForm.tsx->schema"
+  },
+  "RWvQJO": {
+    "defaultMessage": "Hinweis",
+    "description": "orders->OrderCards.tsx->collected.isDragging"
+  },
+  "RxtRx6": {
+    "defaultMessage": "Speichern",
+    "description": "profile->PasswordForm.tsx->PasswordForm"
+  },
+  "S8ecya": {
+    "defaultMessage": "Passwort ändern",
+    "description": "profile->SettingsForm.tsx->EmailInput"
+  },
+  "SExSe1": {
+    "defaultMessage": "Neuer Tisch",
+    "description": "tables->TableFrom.tsx->defaultValues"
+  },
+  "ScZRjH": {
+    "defaultMessage": "Profil-Einstellungen",
+    "description": "profile->SettingsForm.tsx->SettingsForm"
+  },
+  "T4qZnh": {
+    "defaultMessage": "Frage 5",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "T7So3Z": {
+    "defaultMessage": "Anmelden",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "U7hSS5": {
+    "defaultMessage": "Name ist ein Pflichtfeld",
+    "description": "tables->WaiterForm.tsx->schema"
+  },
+  "UdgZyE": {
+    "defaultMessage": "Name*",
+    "description": "tables->WaiterForm.tsx->NameInput"
+  },
+  "Ug7ZlS": {
+    "defaultMessage": "Währung",
+    "description": "restaurants->RestaurantForm.tsx->CurrencySelect"
+  },
+  "V16hmr": {
+    "defaultMessage": "Bearbeiten von {name}",
+    "description": "common->form->FormHeader.tsx->FormHeader"
+  },
+  "V8ZBNQ": {
+    "defaultMessage": "Datum",
+    "description": "orders->ArchiveTable.tsx->ArchiveTable"
+  },
+  "VWI5+f": {
+    "defaultMessage": "Speichern",
+    "description": "common->form->SaveDeleteButtons.tsx->SaveDeleteButtons"
+  },
+  "VWO1sJ": {
+    "defaultMessage": "Tische",
+    "description": "tables->WaiterForm.tsx->TablesInput"
+  },
+  "W8j9OA": {
+    "defaultMessage": "Passwort:",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "WNlVUu": {
+    "defaultMessage": "Bestellungen",
+    "description": "orders->OrdersHeading.tsx->OrdersHeading"
+  },
+  "WVbXfh": {
+    "defaultMessage": "E-Mail",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "YTeQmg": {
+    "defaultMessage": "E-Mail ist ein Pflichtfeld",
+    "description": "tables->WaiterForm.tsx->schema"
+  },
+  "ZJO1vp": {
+    "defaultMessage": "E-Mail",
+    "description": "profile->SettingsForm.tsx->EmailInput"
+  },
+  "Zb5dPz": {
+    "defaultMessage": "Zusätzliche Kategorie",
+    "description": "dishes->dish-form->MarketingToolsInput.tsx->MarketingToolsInput"
+  },
+  "ZsnUV+": {
+    "defaultMessage": "E-Mail:",
+    "description": "auth->ForgotPasswordForm.tsx->ForgotPasswordForm"
+  },
+  "Zu7S1p": {
+    "defaultMessage": "Abbrechen",
+    "description": "common->modal->ConfirmDeleteModal.tsx->ConfirmDeleteModal"
+  },
+  "b/YOwn": {
+    "defaultMessage": "Banner hinzufügen",
+    "description": "restaurants->RestaurantForm.tsx->BannerInput"
+  },
+  "bEMXh3": {
+    "defaultMessage": "Preis",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "bmfz7U": {
+    "defaultMessage": "Neues Gericht hinzufügen",
+    "description": "dishes->AddDishCard.tsx->AddDishCard"
+  },
+  "bs2321": {
+    "defaultMessage": "l",
+    "description": "dishes->dish-form->DishForm.tsx->measurementUnitOptions"
+  },
+  "bycHoP": {
+    "defaultMessage": "Geben Sie Ihre E-Mail-Adresse ein, um Ihren Bestätigungscode zu erhalten",
+    "description": "auth->ForgotPasswordForm.tsx->ForgotPasswordForm"
+  },
+  "cdYiPd": {
+    "defaultMessage": "Wenn Ihre E-Mail in unserem System ist, erhalten Sie bald Anweisungen zum Zurücksetzen Ihres Passworts.",
+    "description": "auth->ForgotPasswordForm.tsx->ForgotPasswordForm"
+  },
+  "cufXoZ": {
+    "defaultMessage": "Kellner",
+    "description": "tables->TableFrom.tsx->WaiterSelect"
+  },
+  "dJxu8T": {
+    "defaultMessage": "Schärfelevel",
+    "description": "dishes->dish-form->DishForm.tsx->SpicyLevelInput"
+  },
+  "eHNiK5": {
+    "defaultMessage": "Logo hinzufügen",
+    "description": "restaurants->RestaurantForm.tsx->LogoInput"
+  },
+  "eWk+/S": {
+    "defaultMessage": "Durch Klicken auf \"Anmelden\" oben bestätigen Sie, dass Sie gelesen, verstanden und zugestimmt haben ",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "evYEY3": {
+    "defaultMessage": "Anfrage eingereicht",
+    "description": "auth->ForgotPasswordForm.tsx->ForgotPasswordForm"
+  },
+  "fB8rMX": {
+    "defaultMessage": "Name",
+    "description": "restaurants->RestaurantForm.tsx->NameInput"
+  },
+  "fI8c2I": {
+    "defaultMessage": "Top der Woche",
+    "description": "dishes->dish-form->MarketingToolsInput.tsx->MarketingToolsInput"
+  },
+  "fTQDRV": {
+    "defaultMessage": "Beschreibung",
+    "description": "restaurants->RestaurantForm.tsx->NameInput"
+  },
+  "gIorQU": {
+    "defaultMessage": "Frage 3",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "ghWjl5": {
+    "defaultMessage": "Zutaten",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "h72PvL": {
+    "defaultMessage": "Sprache",
+    "description": "profile->SettingsForm.tsx->LanguageSelect"
+  },
+  "hFXTI4": {
+    "defaultMessage": "Name ist ein Pflichtfeld",
+    "description": "tables->TableFrom.tsx->schema"
+  },
+  "hRV4T9": {
+    "defaultMessage": "Abgeschlossen",
+    "description": "orders->OrdersGrid.tsx->OrdersGrid"
+  },
+  "hW5+Ny": {
+    "defaultMessage": "Wenn Sie Unterstützung benötigen, verwenden Sie einen unserer Kontakte.",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "i9pqYw": {
+    "defaultMessage": "Telefon:",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "iab0Si": {
+    "defaultMessage": "Fett",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "iamxsS": {
+    "defaultMessage": "* Pflichtfeld",
+    "description": "tables->TableFrom.tsx->NameInput"
+  },
+  "j+daVu": {
+    "defaultMessage": "Modell wird geladen...",
+    "description": "dishes->dish-form->model-overlay->ModelPreview.tsx->LoadingModelPlaceholder"
+  },
+  "jsfb5C": {
+    "defaultMessage": "Di",
+    "description": "restaurants->workingTimeInput.tsx->WorkingTime"
+  },
+  "k/fZ0g": {
+    "defaultMessage": "Archiv der Bestellungen",
+    "description": "orders->ArchiveHeadings.tsx->ArchiveHeading"
+  },
+  "k9T5n+": {
+    "defaultMessage": "Farbrahmen",
+    "description": "dishes->dish-form->MarketingToolsInput.tsx->ColorBorderInput"
+  },
+  "kAWdSe": {
+    "defaultMessage": "Neuer Kellner",
+    "description": "tables->WaiterForm.tsx->defaultValues"
+  },
+  "khvTcV": {
+    "defaultMessage": "Hier ablegen",
+    "description": "orders->OrdersDropOverlay.tsx->OrdersDropOverlay"
+  },
+  "l6Vv9N": {
+    "defaultMessage": "Passwort vergessen?",
+    "description": "auth->ForgotPasswordForm.tsx->ForgotPasswordForm"
+  },
+  "lDSLYH": {
+    "defaultMessage": "Mit Social Media fortfahren",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "lTiDok": {
+    "defaultMessage": "Chef empfohlen",
+    "description": "dishes->dish-form->MarketingToolsInput.tsx->MarketingToolsInput"
+  },
+  "lluTvc": {
+    "defaultMessage": "Sie dürfen diese Seite nicht anzeigen",
+    "description": "layout->cmsNav.tsx->Error403"
+  },
+  "mChnY5": {
+    "defaultMessage": "Einstellungen",
+    "description": "profile->ProfileMenu.tsx->ProfileMenu"
+  },
+  "mEDNnX": {
+    "defaultMessage": "Hier ablegen",
+    "description": "dishes->CategoryDropOverlay.tsx->CategoryDropOverlay"
+  },
+  "mh/k7j": {
+    "defaultMessage": "Gesamt",
+    "description": "orders->ArchiveTable.tsx->ArchiveTable"
+  },
+  "mnWTwF": {
+    "defaultMessage": "E-Mail:",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "mtr8HD": {
+    "defaultMessage": "ja",
+    "description": "common->modal->ConfirmDeleteModal.tsx->ConfirmDeleteModal"
+  },
+  "n4PJKF": {
+    "defaultMessage": "Neuen Tisch hinzufügen",
+    "description": "tables->AddTableCard.tsx->AddTableCard"
+  },
+  "nG3Db8": {
+    "defaultMessage": "Frage 6",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "nPlhJE": {
+    "defaultMessage": "Willkommen bei Menudget!",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "o76qJC": {
+    "defaultMessage": "Löschen",
+    "description": "common->form->SaveDeleteButtons.tsx->SaveDeleteButtons"
+  },
+  "oB2UT3": {
+    "defaultMessage": "Frage 1",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "os9pxA": {
+    "defaultMessage": "Tiefe",
+    "description": "dishes->dish-form->DishModelDropZone.tsx->DishModelDropZone"
+  },
+  "p69P0z": {
+    "defaultMessage": "Zutaten müssen mindestens 3 Zeichen enthalten",
+    "description": "dishes->dish-form->DishForm.tsx->schema"
+  },
+  "p6gBuP": {
+    "defaultMessage": "Dateien hier ablegen oder klicken",
+    "description": "dishes->dish-form->DishModelDropZone.tsx->DishModelDropZone"
+  },
+  "pYnKep": {
+    "defaultMessage": "Name",
+    "description": "dishes->CategoryForm.tsx->PropertiesInput"
+  },
+  "pbfvZ8": {
+    "defaultMessage": "Unsere Unterstützung antwortet so schnell wie möglich, nachdem Sie uns kontaktiert haben.",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "qIWLBa": {
+    "defaultMessage": "Sind Sie sicher, dass Sie {name} löschen möchten?",
+    "description": "common->modal->ConfirmDeleteModal.tsx->ConfirmDeleteModal"
+  },
+  "qYSyLF": {
+    "defaultMessage": "Kategorie erstellen",
+    "description": "dishes->CategoryForm.tsx->Header"
+  },
+  "qmD/oo": {
+    "defaultMessage": "Kalorien",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "qqeKQZ": {
+    "defaultMessage": "Ernährung",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "rNVNar": {
+    "defaultMessage": "Bestellung Nr.",
+    "description": "orders->ArchiveTable.tsx->ArchiveTable"
+  },
+  "rbXQUh": {
+    "defaultMessage": "Beschreibung",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "ryZ0sJ": {
+    "defaultMessage": "Neues Restaurant hinzufügen",
+    "description": "restaurants->AddRestaurantCard.tsx->AddRestaurantCard"
+  },
+  "sqDGPj": {
+    "defaultMessage": "Manager-E-Mail",
+    "description": "restaurants->RestaurantForm.tsx->ManagerEmailInput"
+  },
+  "syZRZo": {
+    "defaultMessage": "Farbwert ist keine gültige Hexadezimalzahl",
+    "description": "dishes->dish-form->DishForm.tsx->schema"
+  },
+  "szBnRb": {
+    "defaultMessage": "Änderungen speichern",
+    "description": "profile->SettingsForm.tsx->SettingsForm"
+  },
+  "tGQl1N": {
+    "defaultMessage": "Marketing-Tools",
+    "description": "dishes->dish-form->MarketingToolsInput.tsx->MarketingToolsInput"
+  },
+  "tJWNlL": {
+    "defaultMessage": "Wir haben leckeres Essen",
+    "description": "restaurants->RestaurantForm.tsx->defaultValues"
+  },
+  "tMbube": {
+    "defaultMessage": "Kategorie bearbeiten",
+    "description": "dishes->CategoryForm.tsx->Header"
+  },
+  "tf09j4": {
+    "defaultMessage": "Antwort 3",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "urvJdl": {
+    "defaultMessage": "Frage 2",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "vQ/6/g": {
+    "defaultMessage": "Senden",
+    "description": "auth->ForgotPasswordForm.tsx->ForgotPasswordForm"
+  },
+  "vfeWQK": {
+    "defaultMessage": "Neues Restaurant",
+    "description": "restaurants->RestaurantForm.tsx->defaultValues"
+  },
+  "w2WWwT": {
+    "defaultMessage": "Unterstützung",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "wVv/qS": {
+    "defaultMessage": "Kellner",
+    "description": "orders->ArchiveTable.tsx->ArchiveTable"
+  },
+  "wqU08t": {
+    "defaultMessage": "Passwörter stimmen nicht überein",
+    "description": "profile->PasswordForm.tsx->schema"
+  },
+  "wxTdoH": {
+    "defaultMessage": "oder",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "x1apyM": {
+    "defaultMessage": "Es wurde kein Modell hochgeladen",
+    "description": "dishes->dish-form->model-overlay->ModelPreview.tsx->NoModelPlaceholder"
+  },
+  "xqGUI/": {
+    "defaultMessage": "Passwort bestätigen:",
+    "description": "auth->ChangePasswordForm.tsx->ChangePasswordForm"
+  },
+  "yEpKGh": {
+    "defaultMessage": "* erforderliche Felder",
+    "description": "tables->WaiterForm.tsx->WaiterForm"
+  },
+  "yTedRX": {
+    "defaultMessage": "gr",
+    "description": "dishes->dish-form->DishForm.tsx->measurementUnitOptions"
+  },
+  "z17rPU": {
+    "defaultMessage": "Modell hinzufügen",
+    "description": "dishes->dish-form->DishModelDropZone.tsx->DishModelDropZone"
+  },
+  "zG07k0": {
+    "defaultMessage": "Höhe",
+    "description": "dishes->dish-form->DishModelDropZone.tsx->DishModelDropZone"
+  },
+  "zKQ07L": {
+    "defaultMessage": "Hier eingeben...",
+    "description": "orders->EditNoteModal.tsx->EditNoteModal"
+  },
+  "zVNRvY": {
+    "defaultMessage": "Zurück",
+    "description": "auth->LoginFailed.tsx->LoginFailed"
+  },
+  "zZJXb/": {
+    "defaultMessage": "ja",
+    "description": "profile->ProfileMenu.tsx->ProfileMenu"
+  },
+  "zbwpZe": {
+    "defaultMessage": "Bilder hinzufügen",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "/gWjjW": {
+    "defaultMessage": "Neue Kategorie",
+    "description": "dishes->CategoriesForm.tsx->AddButton"
+  },
+  "9ChU7F": {
+    "defaultMessage": "Bestellung stornieren",
+    "description": "orders->OrderCard.tsx->collected.isDragging"
+  },
+  "Blswyz": {
+    "defaultMessage": "Neues Gericht",
+    "description": "dishes->dish-form->DishForm.tsx->DishFormValues"
+  },
+  "OqqPua": {
+    "defaultMessage": "Neue Kategorie",
+    "description": "dishes->CategoryForm.tsx->defaultValues"
+  },
+  "U6qXrK": {
+    "defaultMessage": "Auftrag löschen",
+    "description": "orders->OrderCard.tsx->collected.isDragging"
+  },
+  "eG8+2W": {
+    "defaultMessage": "Rabatt",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "iX10Kw": {
+    "defaultMessage": "Bestellung bearbeiten",
+    "description": "orders->OrderCard.tsx->collected.isDragging"
+  },
+  "+dJAuO": {
+    "defaultMessage": "Restaurants",
+    "description": "restaurants->RestaurantsHeading.tsx->RestaurantsHeading"
+  },
+  "DFSr7F": {
+    "defaultMessage": "Tische",
+    "description": "Navbar.tsx->TablesLink"
+  },
+  "Fc0va3": {
+    "defaultMessage": "Restaurant",
+    "description": "Navbar.tsx->RestaurantLink"
+  },
+  "R4p9X5": {
+    "defaultMessage": "Min.-Fr.",
+    "description": "restaurants->RestaurantCard.tsx->RestaurantCard"
+  },
+  "YD8SqW": {
+    "defaultMessage": "Restaurants",
+    "description": "Navbar.tsx->RestaurantsLink"
+  },
+  "dPTJv0": {
+    "defaultMessage": "Kellner",
+    "description": "Navbar.tsx->WaitersLink"
+  },
+  "hRAGMC": {
+    "defaultMessage": "Gerichte",
+    "description": "Navbar.tsx->DishesLink"
+  },
+  "sD751l": {
+    "defaultMessage": "Aufträge",
+    "description": "Navbar.tsx->OrdersLink"
+  },
+  "y1iMvy": {
+    "defaultMessage": "Sa.-So.",
+    "description": "restaurants->RestaurantCard.tsx->RestaurantCard"
+  },
+  "+IAuv8": {
+    "defaultMessage": "Gerichte - Menudget",
+    "description": "pages/cms/dishes/[restaurantId]->[id].tsx->DishPage"
+  },
+  "1ovNmk": {
+    "defaultMessage": "Aufträge - Menudget",
+    "description": "pages/cms/orders->[restaurantId].tsx->RestaurantOrdersPage"
+  },
+  "2OVOVl": {
+    "defaultMessage": "Tische - Menudget",
+    "description": "pages/cms/tables/[restaurantId]->index.tsx->RestaurantTablesPage"
+  },
+  "5QPcTx": {
+    "defaultMessage": "Aufträge - Menudget",
+    "description": "pages/cms/orders->index.tsx->OrdersPage"
+  },
+  "BUrQow": {
+    "defaultMessage": "Kellner - Menudget",
+    "description": "pages/cms/waiters/[restauranId]->index.tsx->RestaurantWaitersPage"
+  },
+  "Dh3bgZ": {
+    "defaultMessage": "Neuer Tisch - Menudget",
+    "description": "pages/cms/tables/[restaurantId]->new.tsx->NewTablePage"
+  },
+  "GsbFqT": {
+    "defaultMessage": "Neues Gericht - Menudget",
+    "description": "pages/cms/dishes/[restaurantId]->new.tsx->NewDishPage"
+  },
+  "I+uLWd": {
+    "defaultMessage": "Neuer Kellner - Menudget",
+    "description": "pages/cms/waiters/[restauranId]->new.tsx->NewWaiterPage"
+  },
+  "IT1r61": {
+    "defaultMessage": "Anmeldung - Menudget",
+    "description": "pages/cms/auth->login.tsx->LoginPage"
+  },
+  "MqNY40": {
+    "defaultMessage": "Neues Restaurant - Menudget",
+    "description": "pages/cms/restaurants->new.tsx->NewRestaurantPage"
+  },
+  "UUphAO": {
+    "defaultMessage": "Fehler bei der Anmeldung - Menudget",
+    "description": "pages/cms/auth->login-failed.tsx->LoginFailedPage"
+  },
+  "cb9Aox": {
+    "defaultMessage": "Kellner - Menudget",
+    "description": "pages/cms/waiters->index.tsx->WaitersPage"
+  },
+  "dasPM1": {
+    "defaultMessage": "Ändern Sie Ihr Passwort - Menudget",
+    "description": "pages/cms/auth->change-password.tsx->ChangePasswordPage"
+  },
+  "fYN9Jk": {
+    "defaultMessage": "Kellner - Menudget",
+    "description": "pages/cms/waiters/[restauranId]->[id].tsx->WaiterPage"
+  },
+  "jDUepM": {
+    "defaultMessage": "Gerichte - Menudget",
+    "description": "pages/cms/dishes/[restaurantId]->index.tsx->RestaurantDishesPage"
+  },
+  "m8UmHm": {
+    "defaultMessage": "Restaurants - Menudget",
+    "description": "pages/cms/restaurants->[id].tsx->RestaurantPage"
+  },
+  "noWYm+": {
+    "defaultMessage": "Einstellungen - Menudget",
+    "description": "pages/cms/profile->settings.tsx->SettingsPage"
+  },
+  "nwUv+Q": {
+    "defaultMessage": "Unterstützung - Menudget",
+    "description": "pages/cms/profile->support.tsx->SupportPage"
+  },
+  "sRlTRv": {
+    "defaultMessage": "Restaurants - Menudget",
+    "description": "pages/cms/restaurants->index.tsx->RestaurantPage"
+  },
+  "sdIJYI": {
+    "defaultMessage": "Gerichte - Menudget",
+    "description": "pages/cms/dishes/->index.tsx->DishesPage"
+  },
+  "tF2zsb": {
+    "defaultMessage": "Tische - Menudget",
+    "description": "pages/cms/tables/[restaurantId]->[id].tsx->TablePage"
+  },
+  "ts+Zkm": {
+    "defaultMessage": "Kategorien - Menudget",
+    "description": "pages/cms/dishes/[restaurantId]/categories->index.tsx->CategoriesPage"
+  },
+  "v54l4f": {
+    "defaultMessage": "Aufträge - Menudget",
+    "description": "pages/cms/orders/archive->[restaurantId].tsx->RestaurantArchivePage"
+  },
+  "xxurmt": {
+    "defaultMessage": "Archiv - Menudget",
+    "description": "pages/cms/orders/archive->index.tsx->ArchivePage"
+  },
+  "FZqqdB": {
+    "defaultMessage": "Tische - Menudget",
+    "description": "pages/cms/tables/->index.tsx->TablesPage"
+  },
+  "zxaSaB": {
+    "defaultMessage": "Haben Sie Ihr Passwort vergessen? - Menudget",
+    "description": "pages/cms/auth->forgot-password.tsx->ForgotPasswordPage"
+  },
+  "HHj7dJ": {
+    "defaultMessage": "Kellner",
+    "description": "waiters->WaitersHeading.tsx->WaitersHeading"
+  },
+  "I5HqOO": {
+    "defaultMessage": "Aus",
+    "description": "cms/restaurants->WorkingTimeInput.tsx->TimeInput",
+    "originalMessage": "from"
+  },
+  "a4rCkh": {
+    "defaultMessage": "Arbeitszeit",
+    "description": "cms/restaurants->WorkingTimeInput.tsx->WorkingTime"
+  },
+  "wyOJ9U": {
+    "defaultMessage": "Zu",
+    "description": "cms/restaurants->WorkingTimeInput.tsx->TimeInput"
+  },
+  "OZqHfU": {
+    "defaultMessage": "Hier eingeben...",
+    "description": "cms/orders->EditOrderModal.tsx->EditOrderModal"
+  },
+  "b4DzWY": {
+    "defaultMessage": "Allergene",
+    "description": "cms/dishes/dish-form/->DishForm.tsx->LabelsInput"
+  },
+  "iz2Wei": {
+    "defaultMessage": "Änderungen speichern",
+    "description": "cms/orders->EditOrderModal.tsx->EditOrderModal"
+  },
+  "u3ljDp": {
+    "defaultMessage": "Beleg bearbeiten",
+    "description": "cms/orders->EditOrderModal.tsx->EditOrderModal"
+  },
+  "uuPH2t": {
+    "defaultMessage": "Hinzufügen",
+    "description": "cms/orders->EditOrderModal.tsx->EditOrderModal"
+  },
+  "S09bmW": {
+    "defaultMessage": "Grenze",
+    "description": "dishes->dish-form->MarketingToolsInput.tsx->MarketingToolsInput"
+  }
+}

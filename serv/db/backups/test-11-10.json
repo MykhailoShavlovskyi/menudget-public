@@ -1,0 +1,2199 @@
+{
+   "users": [
+      {
+         "id": 1,
+         "createdAt": "2023-09-01T13:01:29.813Z",
+         "updatedAt": "2023-09-01T13:01:29.813Z",
+         "name": "Admin",
+         "email": "admin@menudget.com",
+         "hashedPassword": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJFVkNzROQ3E1ZWlQZmFtdWI0YUQ2ZFEkRWcwMCttTXZnUXU0clFXZWFKWWJES29NbC83c1dtVi9vT0hNS1U3NUpRRQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+         "role": "Admin",
+         "deleted": false,
+         "restaurantId": null
+      },
+      {
+         "id": 2,
+         "createdAt": "2023-09-07T14:07:02.057Z",
+         "updatedAt": "2023-09-07T14:07:02.057Z",
+         "name": "Laurette Manager",
+         "email": "menudget@gmail.com",
+         "hashedPassword": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJGU4L00yMURzbSs1ckFERWd5MHAzT1EkVGpRZXh4cTMvQXlzajBydkRlangyQ2ZYVW9vTjd6NGlEeFV6dnBaNjM1RQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+         "role": "Manager",
+         "deleted": false,
+         "restaurantId": 2
+      },
+      {
+         "id": 3,
+         "createdAt": "2023-09-16T14:39:10.141Z",
+         "updatedAt": "2023-09-16T14:39:10.141Z",
+         "name": "Bella Cucina Trattoria Manager",
+         "email": "mshavlovskyi@gmail.com",
+         "hashedPassword": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJGxwTEFzeHlCVlRoNmV2NlpqbUlqUmckZXFEYllTTVR6ZU1WdlcyT3p4eXNkQVBMRmRXZGxGZkFTRkJ2L0hXQnRYOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+         "role": "Manager",
+         "deleted": false,
+         "restaurantId": 3
+      },
+      {
+         "id": 4,
+         "createdAt": "2023-09-18T09:33:50.093Z",
+         "updatedAt": "2023-09-18T09:34:38.922Z",
+         "name": "New waiter",
+         "email": "bulion39@gmail.com",
+         "hashedPassword": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJE9CS0dTT1RiUzRINGZyMTRJNi9IS1EkYzBhUFgvaUVRZkE5UVBHWnlwdlR5OThsZVpiUWJqS0RDQTBJckViUXVicwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+         "role": "Waiter",
+         "deleted": false,
+         "restaurantId": 3
+      },
+      {
+         "id": 5,
+         "createdAt": "2023-09-01T13:01:29.813Z",
+         "updatedAt": "2023-09-01T13:01:29.813Z",
+         "name": "Admin",
+         "email": "modelkits@gmail.com",
+         "hashedPassword": "JGFyZ29uMmlkJHY9MTkkbT02NTUzNix0PTIscD0xJFVkNzROQ3E1ZWlQZmFtdWI0YUQ2ZFEkRWcwMCttTXZnUXU0clFXZWFKWWJES29NbC83c1dtVi9vT0hNS1U3NUpRRQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+         "role": "Admin",
+         "deleted": false,
+         "restaurantId": null
+      }
+   ],
+   "restaurants": [
+      {
+         "id": 2,
+         "name": "Laurette",
+         "description": "Dining with NY vibes",
+         "openTimes": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            12,
+            12
+         ],
+         "closeTimes": [
+            22,
+            22,
+            22,
+            22,
+            22,
+            22,
+            20
+         ],
+         "logoKey": "2/restaurant/d09d87dc-cadb-4ebf-adb5-41e7e3b18134.png",
+         "bannerKey": "2/restaurant/c9addc33-7996-4460-8c17-5a7c11b7cf42.jpg"
+      },
+      {
+         "id": 1,
+         "name": "Old restaurant",
+         "description": "We have tasty food",
+         "openTimes": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            12,
+            12
+         ],
+         "closeTimes": [
+            22,
+            22,
+            22,
+            22,
+            22,
+            20,
+            20
+         ],
+         "logoKey": null,
+         "bannerKey": null
+      },
+      {
+         "id": 3,
+         "name": "Bella Cucina Trattoria",
+         "description": "Authentic Italian excellence at Bella Cucina Trattoria",
+         "openTimes": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            12,
+            12
+         ],
+         "closeTimes": [
+            22,
+            22,
+            22,
+            22,
+            22,
+            20,
+            20
+         ],
+         "logoKey": "3/restaurant/7c98924b-a453-4537-b820-31f8b9b82ac0.png",
+         "bannerKey": "3/restaurant/15b92be3-c16c-487c-83fe-22579c935430.jpg"
+      }
+   ],
+   "categories": [
+      {
+         "id": 3,
+         "name": "Bar",
+         "order": 0,
+         "deleted": false,
+         "restaurantId": 2
+      },
+      {
+         "id": 4,
+         "name": "Main",
+         "order": 1,
+         "deleted": false,
+         "restaurantId": 2
+      },
+      {
+         "id": 10,
+         "name": "Deserts",
+         "order": 2,
+         "deleted": false,
+         "restaurantId": 2
+      },
+      {
+         "id": 2,
+         "name": "New category",
+         "order": 1,
+         "deleted": false,
+         "restaurantId": 1
+      },
+      {
+         "id": 1,
+         "name": "Asda",
+         "order": 0,
+         "deleted": false,
+         "restaurantId": 1
+      },
+      {
+         "id": 9,
+         "name": "Secondi Piatti (Main Courses)",
+         "order": 1,
+         "deleted": false,
+         "restaurantId": 3
+      },
+      {
+         "id": 6,
+         "name": "Primi Piatti (First Courses)",
+         "order": 0,
+         "deleted": false,
+         "restaurantId": 3
+      },
+      {
+         "id": 5,
+         "name": "Antipasti (Appetizers)",
+         "order": 2,
+         "deleted": false,
+         "restaurantId": 3
+      },
+      {
+         "id": 8,
+         "name": "Pizza",
+         "order": 3,
+         "deleted": false,
+         "restaurantId": 3
+      },
+      {
+         "id": 7,
+         "name": "Drinks",
+         "order": 4,
+         "deleted": false,
+         "restaurantId": 3
+      }
+   ],
+   "dishes": [
+      {
+         "id": 8,
+         "name": "Cocktail 3",
+         "description": "something light and refreshing",
+         "order": 1,
+         "measurementUnit": "ml",
+         "measurementValue": 170,
+         "price": 5.5,
+         "spicyLevel": 0,
+         "labels": [
+            "Vegan"
+         ],
+         "ingredients": "Champaign, juice, syrup, mint",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "2/dishes/3e524f08-df13-4f74-8f71-1fd7fdfc0e76.jpeg"
+         ],
+         "modelKey": "2/models/4c4695f8-a98a-4049-8580-ac51fc7d3faf.glb",
+         "deleted": false,
+         "categoryId": 3,
+         "restaurantId": 2
+      },
+      {
+         "id": 48,
+         "name": "Steak Tartar",
+         "description": "Making this an effortless treat for the meat lovers among us 🥩 ⁠",
+         "order": 6,
+         "measurementUnit": "gr",
+         "measurementValue": 200,
+         "price": 14,
+         "spicyLevel": 0,
+         "labels": [
+            "Meat"
+         ],
+         "ingredients": "Bavette, 63oC eidooier, russian dressing, dill pickle, kappertjes, sjalot, bottarga",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "2/dishes/d68c5c11-279e-4316-ab88-7ba20eee3e04.jpg",
+            "2/dishes/85f73ea2-a5ac-4e2c-9ff7-ec45f8b0e82d.jpg",
+            "2/dishes/62c5b990-e4d9-486a-9c12-4e829214d996.jpg"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 4,
+         "restaurantId": 2
+      },
+      {
+         "id": 26,
+         "name": "Ravioli di Zucca",
+         "description": "Homemade pumpkin-filled ravioli served with a sage brown butter sauce and toasted walnuts.",
+         "order": 2,
+         "measurementUnit": "gr",
+         "measurementValue": 200,
+         "price": 18.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Pumpkin-filled ravioli, sage brown butter sauce, toasted walnuts.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/bf16018a-f983-4767-bb6f-9d49ec382b9a.png"
+         ],
+         "modelKey": "3/models/44ce8573-9698-417f-9b4d-6229ed014de2.glb",
+         "deleted": false,
+         "categoryId": 6,
+         "restaurantId": 3
+      },
+      {
+         "id": 52,
+         "name": "Summer Burrata 🌿",
+         "description": "Creamy burrata meets summer's freshest picks on a plate",
+         "order": 9,
+         "measurementUnit": "gr",
+         "measurementValue": 180,
+         "price": 17,
+         "spicyLevel": 0,
+         "labels": [
+            "Vegetarian",
+            "Lactose",
+            "Halal",
+            "Kosher"
+         ],
+         "ingredients": "Burrata, zucchini, granny smith apple, peas, young strawberries, basil oil",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "2/dishes/38c4b72c-f3a7-421c-8f4d-e2a43c585aee.jpg",
+            "2/dishes/aedb221b-62e1-428e-9de1-606aac7dc2d2.jpg"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 4,
+         "restaurantId": 2
+      },
+      {
+         "id": 23,
+         "name": "Frittura Mista",
+         "description": "A delightful mix of fried seafood including calamari, shrimp, and zucchini served with aioli sauce.",
+         "order": 1,
+         "measurementUnit": "gr",
+         "measurementValue": 250,
+         "price": 15.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Kosher"
+         ],
+         "ingredients": "Calamari rings, shrimp, zucchini, aioli sauce.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/a1359650-55cc-4764-9a03-dd88d77d9d55.png"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 5,
+         "restaurantId": 3
+      },
+      {
+         "id": 22,
+         "name": "Carpaccio di Manzo",
+         "description": "Thinly sliced raw beef tenderloin drizzled with lemon, olive oil, capers, and Parmesan shavings.",
+         "order": 0,
+         "measurementUnit": "gr",
+         "measurementValue": 150,
+         "price": 13.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Beef tenderloin, lemon, olive oil, capers, parmesan cheese.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/ea98d75a-59de-48d3-b470-d8690bdabc16.png"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 5,
+         "restaurantId": 3
+      },
+      {
+         "id": 5,
+         "name": "Tomahawk steak",
+         "description": "Black Angus",
+         "order": 3,
+         "measurementUnit": "gr",
+         "measurementValue": 850,
+         "price": 25.5,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal",
+            "Kosher"
+         ],
+         "ingredients": "100% Black Angus beed",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "2/dishes/4e21d718-aef0-48c0-8654-f07c46f0e2b4.jpeg"
+         ],
+         "modelKey": "2/models/81cadee5-884d-4da6-8246-8b967b51c8b6.glb",
+         "deleted": false,
+         "categoryId": 4,
+         "restaurantId": 2
+      },
+      {
+         "id": 1,
+         "name": "New dish",
+         "description": "This is a tasty dish",
+         "order": 7,
+         "measurementUnit": "gr",
+         "measurementValue": 1,
+         "price": 1,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal",
+            "Pascetarian",
+            "Vegan"
+         ],
+         "ingredients": "asdasd",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [],
+         "modelKey": "1/models/729e6cc8-ee57-4314-869f-96082b50ef4e.glb",
+         "deleted": false,
+         "categoryId": 2,
+         "restaurantId": 1
+      },
+      {
+         "id": 3,
+         "name": "New dish !!!!",
+         "description": "This is a tasty dish",
+         "order": 10,
+         "measurementUnit": "ml",
+         "measurementValue": 250,
+         "price": 99,
+         "spicyLevel": 2,
+         "labels": [
+            "Halal",
+            "Kosher"
+         ],
+         "ingredients": "Water",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 2,
+         "restaurantId": 1
+      },
+      {
+         "id": 24,
+         "name": "Lasagna al Forno",
+         "description": "Layers of homemade pasta, Bolognese sauce, béchamel, and melted cheese, baked to perfection.",
+         "order": 8,
+         "measurementUnit": "gr",
+         "measurementValue": 300,
+         "price": 17.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Homemade pasta, bolognese sauce, béchamel, cheese. ",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/c2cedc93-b925-42e7-97eb-ffef7ee0054b.png"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 6,
+         "restaurantId": 3
+      },
+      {
+         "id": 13,
+         "name": "Risotto ai Funghi Porcini",
+         "description": "Creamy risotto infused with the earthy flavors of porcini mushrooms.",
+         "order": 9,
+         "measurementUnit": "gr",
+         "measurementValue": 290,
+         "price": 18.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Vegetarian"
+         ],
+         "ingredients": "Arborio rice, porcini mushrooms, broth, parmesan cheese",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/e2888b95-287d-49e1-a726-ea38cc9db2b8.png"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 6,
+         "restaurantId": 3
+      },
+      {
+         "id": 11,
+         "name": "Bruschetta al Pomodoro",
+         "description": "Toasted bread topped with diced tomatoes, garlic, fragrant basil, and extra virgin olive oil.",
+         "order": 10,
+         "measurementUnit": "gr",
+         "measurementValue": 165,
+         "price": 9.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Vegan",
+            "Vegetarian"
+         ],
+         "ingredients": "Toasted bread, diced tomatoes, garlic, basil, olive oil.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/d0e6c0c6-30cb-4439-bf9e-10169c8e9582.png"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 5,
+         "restaurantId": 3
+      },
+      {
+         "id": 9,
+         "name": "Caprese Salad",
+         "description": "Vine-ripened tomatoes, fresh mozzarella, basil, and balsamic reduction.",
+         "order": 11,
+         "measurementUnit": "gr",
+         "measurementValue": 360,
+         "price": 12.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Vegan",
+            "Vegetarian"
+         ],
+         "ingredients": "Vine-ripened tomatoes, fresh mozzarella, basil, balsamic reduction",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/17b2254d-d9ee-4fba-abed-0e318f633adc.png"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 5,
+         "restaurantId": 3
+      },
+      {
+         "id": 12,
+         "name": "Pappardelle al Tartufo",
+         "description": "Silky pappardelle pasta bathed in a luxurious truffle cream sauce.",
+         "order": 12,
+         "measurementUnit": "gr",
+         "measurementValue": 180,
+         "price": 16.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Vegetarian"
+         ],
+         "ingredients": "Pappardelle pasta, truffle cream sauce",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/45224003-71cf-4ed2-ae39-b82a5b7c5941.png"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 6,
+         "restaurantId": 3
+      },
+      {
+         "id": 2,
+         "name": "New dish",
+         "description": "This is a tasty dish",
+         "order": 0,
+         "measurementUnit": "gr",
+         "measurementValue": 1,
+         "price": 1,
+         "spicyLevel": 0,
+         "labels": [
+            "Vegetarian"
+         ],
+         "ingredients": "ssadssdccv",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [],
+         "modelKey": "1/models/18e22a9b-168e-4909-b222-3be88400da99.glb",
+         "deleted": false,
+         "categoryId": 1,
+         "restaurantId": 1
+      },
+      {
+         "id": 21,
+         "name": "Arancini",
+         "description": "Deep-fried saffron-infused risotto balls stuffed with mozzarella and served with marinara sauce.",
+         "order": 14,
+         "measurementUnit": "gr",
+         "measurementValue": 200,
+         "price": 10.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Arborio rice, saffron, mozzarella cheese, marinara sauce.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/612f2b0d-7e07-4e28-92b7-a77db8bfb93f.png"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 5,
+         "restaurantId": 3
+      },
+      {
+         "id": 14,
+         "name": "Spaghetti Carbonara",
+         "description": "Classic Roman pasta dish featuring spaghetti tossed with pancetta, eggs, pecorino cheese.",
+         "order": 15,
+         "measurementUnit": "gr",
+         "measurementValue": 320,
+         "price": 15.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Spaghetti, pancetta, eggs, pecorino cheese, black pepper.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/09861ed6-28ec-4758-ab19-ea6c23c38636.png"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 6,
+         "restaurantId": 3
+      },
+      {
+         "id": 20,
+         "name": "Diavola",
+         "description": "Spicy salami and mozzarella cheese on a thin-crust pizza with a hint of red chili flakes",
+         "order": 35,
+         "measurementUnit": "gr",
+         "measurementValue": 180,
+         "price": 14.99,
+         "spicyLevel": 3,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Pizza dough, spicy salami, mozzarella cheese, red chili flakes.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/e2e2ed66-fc44-4853-84a4-12aa93e5ebfe.jpg"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 8,
+         "restaurantId": 3
+      },
+      {
+         "id": 30,
+         "name": "Negroni",
+         "description": "A classic Italian cocktail made with equal parts gin, Campari, and sweet vermouth.",
+         "order": 19,
+         "measurementUnit": "ml",
+         "measurementValue": 100,
+         "price": 10.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Gin, campari, sweet vermouth, orange slice. ",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/f04fa53c-4400-4988-b483-e3eeb2099aba.png"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 7,
+         "restaurantId": 3
+      },
+      {
+         "id": 47,
+         "name": "Crab and caviar hot-dog",
+         "description": "Fresh brioche bun with a fresh crab salad, homemade allioli and caviar, and a touch of truffle oil",
+         "order": 5,
+         "measurementUnit": "gr",
+         "measurementValue": 350,
+         "price": 15.9,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Fresh crab, caviar, brioche bun, homemade allioli source (egg, oil,lemon juice, garlic,)",
+         "featured": true,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "2/dishes/41dce70c-8d6f-4731-ba7e-69c678bbbc9f.jpg",
+            "2/dishes/c57c8321-b342-4aa3-bccb-6c61851caa45.jpg"
+         ],
+         "modelKey": "2/models/81e7417b-c97d-4d2c-9e03-415e2d8db80b.rar",
+         "deleted": false,
+         "categoryId": 4,
+         "restaurantId": 2
+      },
+      {
+         "id": 49,
+         "name": "Wagyu Tataki",
+         "description": "Delicately seared A5 Wagyu beef slde with a luxurious sensation.",
+         "order": 7,
+         "measurementUnit": "gr",
+         "measurementValue": 150,
+         "price": 118,
+         "spicyLevel": 0,
+         "labels": [
+            "Meat"
+         ],
+         "ingredients": "Premium Wagyu beef, light soy sauce, sesame oil, grated ginger, sliced green onions, minced garlic, ground black pepper, mixed salad greens, toasted sesame seeds, and optional red chili slices",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "2/dishes/a25a6070-5c0a-4534-924a-da229a353409.jpg"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 4,
+         "restaurantId": 2
+      },
+      {
+         "id": 53,
+         "name": "Larette’s Bombolini ",
+         "description": "A fluffy, Italian treat filled with sweet surprises.",
+         "order": 1,
+         "measurementUnit": "gr",
+         "measurementValue": 110,
+         "price": 9.5,
+         "spicyLevel": 0,
+         "labels": [
+            "Vegetarian",
+            "Gluten",
+            "Lactose",
+            "Halal",
+            "Kosher"
+         ],
+         "ingredients": "Dough (flour, yeast, sugar, eggs, butter, milk, salt), filling (typically custard, chocolate, or jam), powdered sugar for dusting.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "2/dishes/0ecb3837-4034-4888-9fdb-2433b9f4c8a8.jpg"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 10,
+         "restaurantId": 2
+      },
+      {
+         "id": 54,
+         "name": "Larette Short Rib 🍖",
+         "description": "Spring's succulent and melt-in-the-mouth rib delight.",
+         "order": 10,
+         "measurementUnit": "gr",
+         "measurementValue": 270,
+         "price": 25,
+         "spicyLevel": 0,
+         "labels": [
+            "Meat"
+         ],
+         "ingredients": "Short rib, season-specific marinade (could include spring herbs, garlic, wine), vegetables for braising (e.g., carrots, onions, celery).",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "2/dishes/2bab6df6-e485-43a8-8604-39c8abe91ada.jpg",
+            "2/dishes/77f2915a-9e42-4276-9b04-f413f5b3099f.jpg",
+            "2/dishes/08ba33ff-513f-41fd-bdd3-3987242c0b7d.jpg"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 4,
+         "restaurantId": 2
+      },
+      {
+         "id": 36,
+         "name": "Fettuccine Alfredo",
+         "description": "Wide ribbons of fettuccine pasta tossed in a creamy Alfredo sauce.",
+         "order": 23,
+         "measurementUnit": "gr",
+         "measurementValue": 250,
+         "price": 15.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Fettuccine pasta, butter, heavy cream, parmesan cheese. ",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/8a94fc08-7ccf-469c-a8be-63cc52171c06.avif"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 6,
+         "restaurantId": 3
+      },
+      {
+         "id": 25,
+         "name": "Gnocchi al Pesto",
+         "description": "Soft potato gnocchi tossed in a fragrant basil pesto sauce with pine nuts and Parmesan.",
+         "order": 25,
+         "measurementUnit": "gr",
+         "measurementValue": 250,
+         "price": 16.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Potato gnocchi, basil pesto, pine nuts, parmesan cheese.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/40f9386f-29c0-41cb-8a30-548a0097133c.png"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 6,
+         "restaurantId": 3
+      },
+      {
+         "id": 55,
+         "name": "Pornstar Martini ",
+         "description": "A vibrant cocktail with a tropical flair, perfect for Larette Nights.",
+         "order": 3,
+         "measurementUnit": "ml",
+         "measurementValue": 250,
+         "price": 18,
+         "spicyLevel": 0,
+         "labels": [
+            "Vegan"
+         ],
+         "ingredients": "Vanilla vodka, passion fruit puree, passion fruit liqueur, lime juice, prosecco on the side",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "2/dishes/3c0e95ff-e647-4967-b0f2-9c018daa0bad.jpg",
+            "2/dishes/e7228d16-7349-4d68-86b7-fa6438106227.jpg",
+            "2/dishes/ba7631bb-d8f5-4094-9bea-f30db3c9c710.jpg"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 3,
+         "restaurantId": 2
+      },
+      {
+         "id": 38,
+         "name": "Penne all'Arrabbiata",
+         "description": " Penne pasta in a spicy tomato sauce with garlic, red chili flakes, and fresh parsley.",
+         "order": 28,
+         "measurementUnit": "gr",
+         "measurementValue": 220,
+         "price": 14.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Penne pasta, spicy tomato sauce, garlic, red chili flakes, fresh parsley.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/daa9a8d7-d545-435d-89be-3f51fb1769ad.jpg"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 6,
+         "restaurantId": 3
+      },
+      {
+         "id": 37,
+         "name": "Linguine alle Vongole",
+         "description": "Linguine pasta served with a savory clam sauce.",
+         "order": 17,
+         "measurementUnit": "gr",
+         "measurementValue": 300,
+         "price": 18.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Linguine pasta, fresh clams, garlic, white wine, chili flakes.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/1b1fe909-f251-4c26-9555-affe7ebd40de.png"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 6,
+         "restaurantId": 3
+      },
+      {
+         "id": 10,
+         "name": "Calamari Fritti",
+         "description": "Crispy fried calamari rings served with a zesty marinara sauce for dipping.",
+         "order": 18,
+         "measurementUnit": "gr",
+         "measurementValue": 200,
+         "price": 14.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Fresh calamari rings, Marinara sauce",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/4d1e1d78-1b6e-4fe2-ac70-01c66e032b32.jpg"
+         ],
+         "modelKey": "3/models/4abda44c-45d2-4aaa-a82e-0de0a899e5ef.glb",
+         "deleted": false,
+         "categoryId": 5,
+         "restaurantId": 3
+      },
+      {
+         "id": 34,
+         "name": "Polpettine al Sugo",
+         "description": " Homemade meatballs simmered in a rich tomato sauce and sprinkled with Parmesan cheese.",
+         "order": 31,
+         "measurementUnit": "gr",
+         "measurementValue": 250,
+         "price": 12.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Meatballs, tomato sauce, parmesan cheese.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/7dae7893-16ec-4ab7-a890-afcf02927308.png"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 5,
+         "restaurantId": 3
+      },
+      {
+         "id": 35,
+         "name": "Crostini con Funghi",
+         "description": "Slices of toasted baguette topped with sautéed mushrooms, garlic, and fresh parsley.",
+         "order": 32,
+         "measurementUnit": "gr",
+         "measurementValue": 180,
+         "price": 10.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Baguette slices, sautéed mushrooms, garlic, fresh parsley. ",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/48cd6e47-a139-4d9e-8e5e-7d4049a22da5.jpg"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 5,
+         "restaurantId": 3
+      },
+      {
+         "id": 4,
+         "name": "Pink drink",
+         "description": "Something beautiful and pink",
+         "order": 0,
+         "measurementUnit": "ml",
+         "measurementValue": 150,
+         "price": 12.5,
+         "spicyLevel": 0,
+         "labels": [
+            "Pascetarian",
+            "Vegan",
+            "Kosher"
+         ],
+         "ingredients": "Dry water, Gin, Grapefruit, Something else, love",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "2/dishes/76638278-7278-4f13-b5d2-4bad4e3eef5d.jpeg",
+            "2/dishes/c2fdf899-ad52-49da-8f4e-46ea9f85e15c.jpg"
+         ],
+         "modelKey": "2/models/5c55398c-3203-402b-8929-5867bace8cca.glb",
+         "deleted": false,
+         "categoryId": 3,
+         "restaurantId": 2
+      },
+      {
+         "id": 33,
+         "name": "Bruschetta Variata",
+         "description": "Roasted bread slices topped with a trio of flavorful toppings.",
+         "order": 33,
+         "measurementUnit": "gr",
+         "measurementValue": 200,
+         "price": 11.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Toasted bread, diced tomatoes, basil, olive tapenade, roasted red pepper, goat cheese.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/7ce93f8b-4a4b-47da-8223-a3530f5a2696.jpg"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 5,
+         "restaurantId": 3
+      },
+      {
+         "id": 7,
+         "name": "Cocktail 2",
+         "description": "Something tasty with layers ",
+         "order": 2,
+         "measurementUnit": "ml",
+         "measurementValue": 130,
+         "price": 10.5,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal",
+            "Kosher"
+         ],
+         "ingredients": "Sirop, juice, liquor ",
+         "featured": false,
+         "colorBorder": true,
+         "color": "#c366da",
+         "imageKeys": [
+            "2/dishes/80f23bac-946b-454e-b602-5682d31787b4.jpeg",
+            "2/dishes/aee5a354-6161-4ff4-b7fc-94ca1ae57419.jpg"
+         ],
+         "modelKey": "2/models/862c3971-b276-4150-9641-873ae8204051.glb",
+         "deleted": false,
+         "categoryId": 3,
+         "restaurantId": 2
+      },
+      {
+         "id": 44,
+         "name": "Espresso",
+         "description": "A strong shot of Italian espresso.",
+         "order": 34,
+         "measurementUnit": "ml",
+         "measurementValue": 30,
+         "price": 3.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Espresso",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/1cd80072-883f-46a7-bac6-65f38e797e3a.jpg"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 7,
+         "restaurantId": 3
+      },
+      {
+         "id": 19,
+         "name": "Quattro Formaggi",
+         "description": "Pizza topped with a delectable blend of four cheeses and a touch of truffle oil.",
+         "order": 21,
+         "measurementUnit": "gr",
+         "measurementValue": 250,
+         "price": 15.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Pizza dough, four cheese blend, truffle oil drizzle.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/4b90a7e3-0760-4517-a93b-3cc023a4fda6.jpg"
+         ],
+         "modelKey": "3/models/43ebff3a-ff26-4b8c-a769-22f90982a890.glb",
+         "deleted": false,
+         "categoryId": 8,
+         "restaurantId": 3
+      },
+      {
+         "id": 18,
+         "name": "Margherita",
+         "description": "Classic pizza with San Marzano tomatoes, fresh mozzarella, basil, and a drizzle of olive oil.",
+         "order": 3,
+         "measurementUnit": "gr",
+         "measurementValue": 260,
+         "price": 13.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Pizza dough, san Marzano tomatoes, mozzarella cheese, fresh basil, olive oil.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/b72173dc-081b-40ef-a35b-fab047a898f8.jpg"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 8,
+         "restaurantId": 3
+      },
+      {
+         "id": 50,
+         "name": "Yellowtail Kingfish 👑",
+         "description": "Fresh Kingfish, served in dashi, with hints of lime & marigold.",
+         "order": 8,
+         "measurementUnit": "gr",
+         "measurementValue": 230,
+         "price": 21.5,
+         "spicyLevel": 0,
+         "labels": [
+            "Pascetarian",
+            "Kosher"
+         ],
+         "ingredients": "Yellowtail Kingfish, dashi broth, chive oil, rettich, blue meat radish, lime leaf crème, marigold leaves",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "2/dishes/ddae14dd-f696-453b-821d-03d096bb1239.jpg",
+            "2/dishes/eb059239-7ddd-4758-984a-531228807416.jpg"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 4,
+         "restaurantId": 2
+      },
+      {
+         "id": 6,
+         "name": "Onion hotdog",
+         "description": "Juicy sausage you've been dreaming about",
+         "order": 4,
+         "measurementUnit": "gr",
+         "measurementValue": 400,
+         "price": 14,
+         "spicyLevel": 1,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Brioche bread, beef sausage, allioli, onions, love ",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "2/dishes/27ebc114-1805-4494-b231-4ce5724d1822.jpg",
+            "2/dishes/b26e60ea-59e6-440b-9990-8dbf64d11eb1.jpg"
+         ],
+         "modelKey": "2/models/bb411367-8c3d-4ba5-a6ce-f9b61837115d.glb",
+         "deleted": false,
+         "categoryId": 4,
+         "restaurantId": 2
+      },
+      {
+         "id": 51,
+         "name": "Figs Shortcake",
+         "description": "Luscious figs meet tangy rhubarb in a dance of flavors.",
+         "order": 0,
+         "measurementUnit": "gr",
+         "measurementValue": 280,
+         "price": 20,
+         "spicyLevel": 0,
+         "labels": [
+            "Vegetarian",
+            "Lactose",
+            "Halal",
+            "Kosher"
+         ],
+         "ingredients": "Figs, shortcake, rhubarb compote, goat yoghurt ice cream, balsamic vinegar.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "2/dishes/dd6b12fd-338d-49cf-9473-b957b9b2c7a2.jpg"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 10,
+         "restaurantId": 2
+      },
+      {
+         "id": 56,
+         "name": "ZZZ",
+         "description": "This is a tasty dish",
+         "order": 1,
+         "measurementUnit": "gr",
+         "measurementValue": 1,
+         "price": 1,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Zzz",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 1,
+         "restaurantId": 1
+      },
+      {
+         "id": 32,
+         "name": "Limonata Fresca",
+         "description": "Homemade Italian lemonade made with freshly squeezed lemons and a hint of mint.",
+         "order": 13,
+         "measurementUnit": "ml",
+         "measurementValue": 300,
+         "price": 4.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Freshly squeezed lemon juice, mint.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/4a8bf881-e6f4-419b-9996-fb422a56c6b6.png"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 7,
+         "restaurantId": 3
+      },
+      {
+         "id": 42,
+         "name": "Aperol Spritz",
+         "description": "Aperol mixed with Prosecco and a splash of soda water, garnished with an orange slice.",
+         "order": 20,
+         "measurementUnit": "ml",
+         "measurementValue": 200,
+         "price": 9.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Aperol, prosecco, soda water, orange slice",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/28b42b24-ccfc-4d20-b7bf-e8d52327fecd.avif"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 7,
+         "restaurantId": 3
+      },
+      {
+         "id": 31,
+         "name": "Bellini",
+         "description": "A delightful and refreshing cocktail made with Prosecco and white peach puree.",
+         "order": 26,
+         "measurementUnit": "ml",
+         "measurementValue": 150,
+         "price": 9.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Prosecco, white peach puree.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/4b263366-ef48-4d2f-af15-6fba152e87dc.png"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 7,
+         "restaurantId": 3
+      },
+      {
+         "id": 43,
+         "name": "Limoncello",
+         "description": "A traditional Italian lemon liqueur served icy cold.",
+         "order": 30,
+         "measurementUnit": "ml",
+         "measurementValue": 50,
+         "price": 8.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Limoncello liqueur",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/1088c6a7-ccc3-43d3-8c51-be860cea2d48.png"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 7,
+         "restaurantId": 3
+      },
+      {
+         "id": 29,
+         "name": "Risotto alla Milanese",
+         "description": "Braised veal shank served with saffron-infused Milanese risotto and gremolata.",
+         "order": 5,
+         "measurementUnit": "gr",
+         "measurementValue": 350,
+         "price": 28.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Veal shank, saffron risotto, gremolata.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/2e3c4aab-90ba-46b3-9eca-5f3e188367aa.png"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 9,
+         "restaurantId": 3
+      },
+      {
+         "id": 28,
+         "name": "Salmone alla Griglia",
+         "description": "Grilled salmon fillet with a lemon and dill butter sauce, served with asparagus and mashed potatoes.",
+         "order": 40,
+         "measurementUnit": "gr",
+         "measurementValue": 250,
+         "price": 24.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Salmon fillet, lemon and dill butter sauce, asparagus, mashed potatoes.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/21ffdcd9-5590-4ba4-a565-80c8fea83630.png"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 9,
+         "restaurantId": 3
+      },
+      {
+         "id": 41,
+         "name": "Tagliata di Manzo",
+         "description": "Sliced grilled beef steak served with a balsamic reduction, arugula, and shaved Parmesan.",
+         "order": 39,
+         "measurementUnit": "gr",
+         "measurementValue": 300,
+         "price": 24.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Beef steak, balsamic reduction, arugula, shaved Parmesan.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/a758e783-018b-440d-a304-60cbdd83a20b.jpg"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 9,
+         "restaurantId": 3
+      },
+      {
+         "id": 15,
+         "name": "Osso Buco alla Milanese",
+         "description": "Braised veal shanks in a saffron-infused broth, served with a side of risotto.",
+         "order": 4,
+         "measurementUnit": "gr",
+         "measurementValue": 480,
+         "price": 24.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Veal shanks, saffron risotto, broth, vegatbles.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/bf01d446-aabc-4c75-b57c-1c1ea2dd31d4.png"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 9,
+         "restaurantId": 3
+      },
+      {
+         "id": 40,
+         "name": "Spigola al Cartoccio",
+         "description": "Mediterranean sea bass baked in parchment paper with cherry tomatoes, olives, and fresh herbs.",
+         "order": 29,
+         "measurementUnit": "gr",
+         "measurementValue": 300,
+         "price": 26.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Sea bass, cherry tomatoes, olives, fresh herbs.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/037d58d7-85d8-417c-8058-587909dc4905.jpg"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 9,
+         "restaurantId": 3
+      },
+      {
+         "id": 17,
+         "name": "Filetto di Manzo al Barolo",
+         "description": "Tender beef tenderloin served with a rich Barolo wine reduction sauce and seasonal vegetables.",
+         "order": 30,
+         "measurementUnit": "gr",
+         "measurementValue": 200,
+         "price": 28.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Beef tenderloin, barolo wine reduction, seasonal vegetables.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/b01f44da-a10a-4307-817b-d844df206639.png"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 9,
+         "restaurantId": 3
+      },
+      {
+         "id": 16,
+         "name": "Branzino all'Acqua Pazza",
+         "description": "Mediterranean sea bass cooked in a flavorful tomato and herb broth.",
+         "order": 31,
+         "measurementUnit": "gr",
+         "measurementValue": 350,
+         "price": 22.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Sea bass, tomato and herb broth, olive oil.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/86cdf43f-5b08-4502-acd5-9882d11dc180.png"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 9,
+         "restaurantId": 3
+      },
+      {
+         "id": 39,
+         "name": "Cotoletta alla Milanese",
+         "description": "Breaded and pan-fried veal cutlet served with a lemon wedge and a side of arugula salad.",
+         "order": 32,
+         "measurementUnit": "gr",
+         "measurementValue": 250,
+         "price": 22.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Veal cutlet, bread crumbs, lemon wedge,  arugula salad.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/6c837d97-817c-441f-8439-ef9841022d77.jpg"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 9,
+         "restaurantId": 3
+      },
+      {
+         "id": 27,
+         "name": "Costolette d'Agnello",
+         "description": "Grilled lamb chops marinated in rosemary and garlic, served with roasted vegetables.",
+         "order": 38,
+         "measurementUnit": "gr",
+         "measurementValue": 300,
+         "price": 26.99,
+         "spicyLevel": 0,
+         "labels": [
+            "Halal"
+         ],
+         "ingredients": "Lamb chops, rosemary, garlic, roasted vegetables.",
+         "featured": false,
+         "colorBorder": false,
+         "color": null,
+         "imageKeys": [
+            "3/dishes/237b0b8e-e868-48ba-a8fb-f85575bfdc32.png"
+         ],
+         "modelKey": null,
+         "deleted": false,
+         "categoryId": 9,
+         "restaurantId": 3
+      }
+   ],
+   "orders": [
+      {
+         "id": 1,
+         "createdAt": "2023-09-07T14:35:21.795Z",
+         "notes": "Hello",
+         "promo": "",
+         "state": "Deleted",
+         "payed": false,
+         "restaurantId": 2,
+         "userId": null,
+         "tableId": 2
+      },
+      {
+         "id": 7,
+         "createdAt": "2023-09-25T21:51:09.293Z",
+         "notes": "Hello’s ",
+         "promo": "Fg4500",
+         "state": "InProgress",
+         "payed": false,
+         "restaurantId": 3,
+         "userId": null,
+         "tableId": 15
+      },
+      {
+         "id": 9,
+         "createdAt": "2023-09-29T09:26:54.522Z",
+         "notes": "",
+         "promo": "",
+         "state": "Pending",
+         "payed": false,
+         "restaurantId": 2,
+         "userId": null,
+         "tableId": 2
+      },
+      {
+         "id": 4,
+         "createdAt": "2023-09-18T09:33:31.167Z",
+         "notes": "Hello",
+         "promo": "",
+         "state": "Deleted",
+         "payed": true,
+         "restaurantId": 3,
+         "userId": null,
+         "tableId": 7
+      },
+      {
+         "id": 2,
+         "createdAt": "2023-09-07T15:58:50.503Z",
+         "notes": "",
+         "promo": "",
+         "state": "Deleted",
+         "payed": false,
+         "restaurantId": 2,
+         "userId": null,
+         "tableId": 2
+      },
+      {
+         "id": 10,
+         "createdAt": "2023-10-05T13:23:35.936Z",
+         "notes": "",
+         "promo": "",
+         "state": "Done",
+         "payed": true,
+         "restaurantId": 2,
+         "userId": null,
+         "tableId": 2
+      },
+      {
+         "id": 3,
+         "createdAt": "2023-09-07T18:18:04.565Z",
+         "notes": "",
+         "promo": "",
+         "state": "Deleted",
+         "payed": false,
+         "restaurantId": 2,
+         "userId": null,
+         "tableId": 2
+      },
+      {
+         "id": 6,
+         "createdAt": "2023-09-25T21:50:01.277Z",
+         "notes": "",
+         "promo": "",
+         "state": "Done",
+         "payed": true,
+         "restaurantId": 2,
+         "userId": null,
+         "tableId": 15
+      },
+      {
+         "id": 8,
+         "createdAt": "2023-09-25T21:51:58.337Z",
+         "notes": "",
+         "promo": "",
+         "state": "InProgress",
+         "payed": false,
+         "restaurantId": 2,
+         "userId": null,
+         "tableId": 2
+      },
+      {
+         "id": 14,
+         "createdAt": "2023-10-09T19:32:18.883Z",
+         "notes": "",
+         "promo": "",
+         "state": "Pending",
+         "payed": false,
+         "restaurantId": 3,
+         "userId": null,
+         "tableId": 4
+      },
+      {
+         "id": 15,
+         "createdAt": "2023-10-09T19:47:33.424Z",
+         "notes": "",
+         "promo": "",
+         "state": "Pending",
+         "payed": false,
+         "restaurantId": 3,
+         "userId": null,
+         "tableId": 4
+      },
+      {
+         "id": 11,
+         "createdAt": "2023-10-06T19:04:22.440Z",
+         "notes": "Hello",
+         "promo": "",
+         "state": "Deleted",
+         "payed": true,
+         "restaurantId": 2,
+         "userId": null,
+         "tableId": 2
+      },
+      {
+         "id": 13,
+         "createdAt": "2023-10-08T14:23:40.413Z",
+         "notes": "",
+         "promo": "",
+         "state": "Pending",
+         "payed": false,
+         "restaurantId": 3,
+         "userId": null,
+         "tableId": 4
+      },
+      {
+         "id": 5,
+         "createdAt": "2023-09-25T21:49:14.351Z",
+         "notes": "Hello \n",
+         "promo": "Fg4500",
+         "state": "Pending",
+         "payed": false,
+         "restaurantId": 3,
+         "userId": null,
+         "tableId": 15
+      },
+      {
+         "id": 12,
+         "createdAt": "2023-10-08T14:19:18.472Z",
+         "notes": "22",
+         "promo": "",
+         "state": "Pending",
+         "payed": false,
+         "restaurantId": 3,
+         "userId": null,
+         "tableId": 4
+      }
+   ],
+   "orderedDishes": [
+      {
+         "id": 1,
+         "orderId": 1,
+         "dishId": 5,
+         "count": 2
+      },
+      {
+         "id": 2,
+         "orderId": 1,
+         "dishId": 6,
+         "count": 1
+      },
+      {
+         "id": 3,
+         "orderId": 1,
+         "dishId": 7,
+         "count": 1
+      },
+      {
+         "id": 4,
+         "orderId": 2,
+         "dishId": 5,
+         "count": 1
+      },
+      {
+         "id": 5,
+         "orderId": 2,
+         "dishId": 6,
+         "count": 1
+      },
+      {
+         "id": 6,
+         "orderId": 2,
+         "dishId": 4,
+         "count": 1
+      },
+      {
+         "id": 7,
+         "orderId": 2,
+         "dishId": 7,
+         "count": 1
+      },
+      {
+         "id": 8,
+         "orderId": 3,
+         "dishId": 5,
+         "count": 1
+      },
+      {
+         "id": 9,
+         "orderId": 3,
+         "dishId": 6,
+         "count": 1
+      },
+      {
+         "id": 10,
+         "orderId": 3,
+         "dishId": 4,
+         "count": 1
+      },
+      {
+         "id": 11,
+         "orderId": 3,
+         "dishId": 7,
+         "count": 1
+      },
+      {
+         "id": 12,
+         "orderId": 3,
+         "dishId": 4,
+         "count": 4
+      },
+      {
+         "id": 13,
+         "orderId": 3,
+         "dishId": 8,
+         "count": 1
+      },
+      {
+         "id": 14,
+         "orderId": 4,
+         "dishId": 26,
+         "count": 1
+      },
+      {
+         "id": 15,
+         "orderId": 4,
+         "dishId": 24,
+         "count": 2
+      },
+      {
+         "id": 16,
+         "orderId": 4,
+         "dishId": 42,
+         "count": 1
+      },
+      {
+         "id": 17,
+         "orderId": 4,
+         "dishId": 44,
+         "count": 1
+      },
+      {
+         "id": 18,
+         "orderId": 5,
+         "dishId": 5,
+         "count": 1
+      },
+      {
+         "id": 19,
+         "orderId": 5,
+         "dishId": 4,
+         "count": 1
+      },
+      {
+         "id": 20,
+         "orderId": 6,
+         "dishId": 7,
+         "count": 4
+      },
+      {
+         "id": 21,
+         "orderId": 7,
+         "dishId": 5,
+         "count": 1
+      },
+      {
+         "id": 22,
+         "orderId": 7,
+         "dishId": 4,
+         "count": 1
+      },
+      {
+         "id": 23,
+         "orderId": 7,
+         "dishId": 47,
+         "count": 1
+      },
+      {
+         "id": 24,
+         "orderId": 7,
+         "dishId": 7,
+         "count": 1
+      },
+      {
+         "id": 25,
+         "orderId": 8,
+         "dishId": 7,
+         "count": 4
+      },
+      {
+         "id": 26,
+         "orderId": 8,
+         "dishId": 47,
+         "count": 4
+      },
+      {
+         "id": 27,
+         "orderId": 9,
+         "dishId": 55,
+         "count": 1
+      },
+      {
+         "id": 28,
+         "orderId": 9,
+         "dishId": 7,
+         "count": 1
+      },
+      {
+         "id": 29,
+         "orderId": 9,
+         "dishId": 8,
+         "count": 1
+      },
+      {
+         "id": 30,
+         "orderId": 10,
+         "dishId": 5,
+         "count": 2
+      },
+      {
+         "id": 31,
+         "orderId": 10,
+         "dishId": 54,
+         "count": 2
+      },
+      {
+         "id": 32,
+         "orderId": 10,
+         "dishId": 48,
+         "count": 4
+      },
+      {
+         "id": 33,
+         "orderId": 11,
+         "dishId": 51,
+         "count": 1
+      },
+      {
+         "id": 34,
+         "orderId": 11,
+         "dishId": 48,
+         "count": 1
+      },
+      {
+         "id": 35,
+         "orderId": 11,
+         "dishId": 7,
+         "count": 1
+      },
+      {
+         "id": 36,
+         "orderId": 12,
+         "dishId": 28,
+         "count": 1
+      },
+      {
+         "id": 37,
+         "orderId": 12,
+         "dishId": 16,
+         "count": 1
+      },
+      {
+         "id": 38,
+         "orderId": 12,
+         "dishId": 39,
+         "count": 1
+      },
+      {
+         "id": 39,
+         "orderId": 12,
+         "dishId": 26,
+         "count": 1
+      },
+      {
+         "id": 40,
+         "orderId": 12,
+         "dishId": 13,
+         "count": 1
+      },
+      {
+         "id": 41,
+         "orderId": 12,
+         "dishId": 37,
+         "count": 1
+      },
+      {
+         "id": 42,
+         "orderId": 12,
+         "dishId": 24,
+         "count": 2
+      },
+      {
+         "id": 43,
+         "orderId": 12,
+         "dishId": 25,
+         "count": 1
+      },
+      {
+         "id": 44,
+         "orderId": 12,
+         "dishId": 36,
+         "count": 1
+      },
+      {
+         "id": 45,
+         "orderId": 12,
+         "dishId": 14,
+         "count": 1
+      },
+      {
+         "id": 46,
+         "orderId": 12,
+         "dishId": 34,
+         "count": 1
+      },
+      {
+         "id": 47,
+         "orderId": 13,
+         "dishId": 28,
+         "count": 1
+      },
+      {
+         "id": 48,
+         "orderId": 13,
+         "dishId": 16,
+         "count": 1
+      },
+      {
+         "id": 49,
+         "orderId": 13,
+         "dishId": 39,
+         "count": 1
+      },
+      {
+         "id": 50,
+         "orderId": 13,
+         "dishId": 26,
+         "count": 1
+      },
+      {
+         "id": 51,
+         "orderId": 13,
+         "dishId": 13,
+         "count": 1
+      },
+      {
+         "id": 52,
+         "orderId": 13,
+         "dishId": 37,
+         "count": 1
+      },
+      {
+         "id": 53,
+         "orderId": 13,
+         "dishId": 24,
+         "count": 2
+      },
+      {
+         "id": 54,
+         "orderId": 13,
+         "dishId": 25,
+         "count": 1
+      },
+      {
+         "id": 55,
+         "orderId": 13,
+         "dishId": 36,
+         "count": 1
+      },
+      {
+         "id": 56,
+         "orderId": 13,
+         "dishId": 14,
+         "count": 1
+      },
+      {
+         "id": 57,
+         "orderId": 13,
+         "dishId": 34,
+         "count": 1
+      },
+      {
+         "id": 58,
+         "orderId": 13,
+         "dishId": 26,
+         "count": 1
+      },
+      {
+         "id": 59,
+         "orderId": 13,
+         "dishId": 34,
+         "count": 2
+      },
+      {
+         "id": 60,
+         "orderId": 14,
+         "dishId": 26,
+         "count": 1
+      },
+      {
+         "id": 61,
+         "orderId": 15,
+         "dishId": 26,
+         "count": 1
+      },
+      {
+         "id": 62,
+         "orderId": 15,
+         "dishId": 13,
+         "count": 1
+      }
+   ],
+   "tables": [
+      {
+         "id": 3,
+         "name": "1",
+         "restaurantId": 3,
+         "idle": true,
+         "deleted": false
+      },
+      {
+         "id": 5,
+         "name": "3",
+         "restaurantId": 3,
+         "idle": true,
+         "deleted": false
+      },
+      {
+         "id": 6,
+         "name": "4",
+         "restaurantId": 3,
+         "idle": true,
+         "deleted": false
+      },
+      {
+         "id": 8,
+         "name": "6",
+         "restaurantId": 3,
+         "idle": true,
+         "deleted": false
+      },
+      {
+         "id": 9,
+         "name": "7",
+         "restaurantId": 3,
+         "idle": true,
+         "deleted": false
+      },
+      {
+         "id": 10,
+         "name": "8",
+         "restaurantId": 3,
+         "idle": true,
+         "deleted": false
+      },
+      {
+         "id": 11,
+         "name": "9",
+         "restaurantId": 3,
+         "idle": true,
+         "deleted": false
+      },
+      {
+         "id": 12,
+         "name": "10",
+         "restaurantId": 3,
+         "idle": true,
+         "deleted": false
+      },
+      {
+         "id": 13,
+         "name": "11",
+         "restaurantId": 3,
+         "idle": true,
+         "deleted": false
+      },
+      {
+         "id": 14,
+         "name": "12",
+         "restaurantId": 3,
+         "idle": true,
+         "deleted": false
+      },
+      {
+         "id": 7,
+         "name": "5",
+         "restaurantId": 3,
+         "idle": false,
+         "deleted": false
+      },
+      {
+         "id": 15,
+         "name": "2",
+         "restaurantId": 2,
+         "idle": false,
+         "deleted": false
+      },
+      {
+         "id": 2,
+         "name": "Table 1",
+         "restaurantId": 2,
+         "idle": false,
+         "deleted": false
+      },
+      {
+         "id": 16,
+         "name": "New xcx",
+         "restaurantId": 1,
+         "idle": true,
+         "deleted": false
+      },
+      {
+         "id": 17,
+         "name": "New tablexcv",
+         "restaurantId": 1,
+         "idle": true,
+         "deleted": false
+      },
+      {
+         "id": 18,
+         "name": "ZZ",
+         "restaurantId": 1,
+         "idle": true,
+         "deleted": false
+      },
+      {
+         "id": 1,
+         "name": "xcxcA5",
+         "restaurantId": 1,
+         "idle": true,
+         "deleted": false
+      },
+      {
+         "id": 4,
+         "name": "2",
+         "restaurantId": 3,
+         "idle": false,
+         "deleted": false
+      }
+   ]
+}

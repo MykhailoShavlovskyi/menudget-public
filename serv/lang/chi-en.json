@@ -1,0 +1,926 @@
+{
+  "+ieMu+": {
+    "defaultMessage": "保存/Save",
+    "description": "auth->ChangePasswordForm.tsx->ChangePasswordForm"
+  },
+  "+j/axq": {
+    "defaultMessage": "新密码：/New password:",
+    "description": "auth->ChangePasswordForm.tsx->ChangePasswordForm"
+  },
+  "/4rm+3": {
+    "defaultMessage": "处理中/In progress",
+    "description": "orders->OrdersGrid.tsx->OrdersGrid"
+  },
+  "/Mp5TY": {
+    "defaultMessage": "确认密码/Confirm password",
+    "description": "profile->PasswordForm.tsx->PasswordForm"
+  },
+  "/qw7K+": {
+    "defaultMessage": "密码/Password",
+    "description": "profile->SettingsForm.tsx->SettingsForm"
+  },
+  "0LED6B": {
+    "defaultMessage": "首页/home page",
+    "description": "auth->ChangePasswordForm.tsx->ChangePasswordForm"
+  },
+  "0OUYba": {
+    "defaultMessage": "支持/Support",
+    "description": "profile->ProfileMenu.tsx->ProfileMenu"
+  },
+  "1BhBh3": {
+    "defaultMessage": "星期五/Fri",
+    "description": "restaurants->workingTimeInput.tsx->WorkingTime"
+  },
+  "1sz7b+": {
+    "defaultMessage": "您的新密码必须与先前使用的密码不同/Your new password must be different from previously used password",
+    "description": "auth->ChangePasswordForm.tsx->ChangePasswordForm"
+  },
+  "24MyNi": {
+    "defaultMessage": "添加新服务员/Add new waiter",
+    "description": "tables->AddWaiterCard.tsx->AddWaiterCard"
+  },
+  "2PyDMz": {
+    "defaultMessage": "进行中/Pending",
+    "description": "orders->OrdersGrid.tsx->OrdersGrid"
+  },
+  "3KMXKw": {
+    "defaultMessage": "打开模型预览/Open model preview",
+    "description": "dishes->dish-form->DishModelDropZone.tsx->DishModelDropZone"
+  },
+  "3WKI6x": {
+    "defaultMessage": "密码重置成功/Password Reset Successfully",
+    "description": "auth->ChangePasswordForm.tsx->ChangePasswordForm"
+  },
+  "3jKdiw": {
+    "defaultMessage": "前往/Go to the",
+    "description": "auth->ChangePasswordForm.tsx->ChangePasswordForm"
+  },
+  "43OhbU": {
+    "defaultMessage": "名称应至少包含3个字符/Name should contain at least 3 characters",
+    "description": "dishes->dish-form->DishForm.tsx->schema"
+  },
+  "4AZhlb": {
+    "defaultMessage": "搜索订单/Search order",
+    "description": "orders->ArchiveTable.tsx->ArchiveTable"
+  },
+  "4gTkXT": {
+    "defaultMessage": "答案1/Answer 1",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "4lxG7u": {
+    "defaultMessage": "取消/cancel",
+    "description": "profile->ProfileMenu.tsx->ProfileMenu"
+  },
+  "5CbC0r": {
+    "defaultMessage": "移至归档/Move to archive",
+    "description": "orders->OrderCards.tsx->collected.isDragging"
+  },
+  "5LxxvK": {
+    "defaultMessage": "移除/Remove",
+    "description": "dishes->dish-form->DishModelDropZone.tsx->FileItem"
+  },
+  "6WV8PH": {
+    "defaultMessage": "占用/Occupancy",
+    "description": "tables->TableFrom.tsx->OccupancyInput"
+  },
+  "6woQQ2": {
+    "defaultMessage": "星期一/Mon",
+    "description": "restaurants->workingTimeInput.tsx->WorkingTime"
+  },
+  "7DJkn/": {
+    "defaultMessage": "答案5/Answer 5",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "7bQzQH": {
+    "defaultMessage": "答案2/Answer 2",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "7y6ZH+": {
+    "defaultMessage": "碳水化合物/Carbs",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "8BaINU": {
+    "defaultMessage": "备注/Notes",
+    "description": "tables->WaiterForm.tsx->NotesInput"
+  },
+  "8MQUwb": {
+    "defaultMessage": "星期四/Thu",
+    "description": "restaurants->workingTimeInput.tsx->WorkingTime"
+  },
+  "8RZQGr": {
+    "defaultMessage": "隐私政策/Privacy Policy",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "8aLbnp": {
+    "defaultMessage": "桌子/Table",
+    "description": "orders->ArchiveTable.tsx->ArchiveTable"
+  },
+  "8abULR": {
+    "defaultMessage": "电子邮件*/Email*",
+    "description": "tables->WaiterForm.tsx->EmailInput"
+  },
+  "8d7OT8": {
+    "defaultMessage": "点击或拖放文件至此/Click or Drop files here",
+    "description": "common->formik->ImageUploaderContent.tsx->ImageUploaderContent"
+  },
+  "8et7Mn": {
+    "defaultMessage": "是否遇到问题？/Are you facing any problem?",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "8pZT/n": {
+    "defaultMessage": "更改您的密码/Change your password",
+    "description": "auth->ChangePasswordForm.tsx->ChangePasswordForm"
+  },
+  "8qW4QW": {
+    "defaultMessage": "菜肴/Dishes",
+    "description": "dishes->DishesHeading.tsx->DishesHeading"
+  },
+  "AQvdtk": {
+    "defaultMessage": "忘记密码？/Forgot password?",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "AdOqUA": {
+    "defaultMessage": "将文件拖到此处.../Drop the files here ...",
+    "description": "dishes->dish-form->DishModelDropZone.tsx->DishModelDropZone"
+  },
+  "BCcd3F": {
+    "defaultMessage": "至少应选择1个标签/At least 1 label should be selected",
+    "description": "dishes->dish-form->DishForm.tsx->schema"
+  },
+  "BHGilS": {
+    "defaultMessage": "返回/Go back",
+    "description": "profile->PasswordForm.tsx->PasswordForm"
+  },
+  "BWeNYp": {
+    "defaultMessage": "名称 / Name",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "BgPfBP": {
+    "defaultMessage": "你好，{userName} / Hello, {userName}",
+    "description": "profile->ProfileMenu.tsx->ProfileMenu"
+  },
+  "C+e4j8": {
+    "defaultMessage": "名称* / Name*",
+    "description": "tables->TableFrom.tsx->NameInput"
+  },
+  "Cafcg9": {
+    "defaultMessage": "为所有天粘贴相同的时间 / Paste same time for all days",
+    "description": "restaurants->workingTimeInput.tsx->WorkingTime"
+  },
+  "CozdSB": {
+    "defaultMessage": "毫升 / ml",
+    "description": "dishes->dish-form->DishForm.tsx->measurementUnitOptions"
+  },
+  "DDuWKi": {
+    "defaultMessage": "显示QR码 / Show QR-code",
+    "description": "tables->TableCard.tsx->TableCard"
+  },
+  "DqlcuR": {
+    "defaultMessage": "所有类别： / All categories:",
+    "description": "dishes->CategoriesForm.tsx->Items"
+  },
+  "Eg15/l": {
+    "defaultMessage": "周三 / Wed",
+    "description": "restaurants->workingTimeInput.tsx->WorkingTime"
+  },
+  "Ehtx8V": {
+    "defaultMessage": "周六 / Sat",
+    "description": "restaurants->workingTimeInput.tsx->WorkingTime"
+  },
+  "F6sa0t": {
+    "defaultMessage": "注释 / Note",
+    "description": "orders->EditNoteModal.tsx->EditNoteModal"
+  },
+  "FUAtln": {
+    "defaultMessage": "测量单位 / Measurement unit",
+    "description": "dishes->dish-form->DishForm.tsx->CategorySelect"
+  },
+  "FZ6QGI": {
+    "defaultMessage": "周日 / Sun",
+    "description": "restaurants->workingTimeInput.tsx->WorkingTime"
+  },
+  "FbYlRy": {
+    "defaultMessage": "类别 / Category",
+    "description": "dishes->dish-form->DishForm.tsx->CategorySelect"
+  },
+  "Fc0T4O": {
+    "defaultMessage": "答案6 / Answer 6",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "G+WokM": {
+    "defaultMessage": "密码 / Password",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "GouM3V": {
+    "defaultMessage": "登录失败！ / Login failed!",
+    "description": "auth->LoginFailed.tsx->LoginFailed"
+  },
+  "HASNSE": {
+    "defaultMessage": "新密码 / New password",
+    "description": "profile->PasswordForm.tsx->PasswordForm"
+  },
+  "Hrteqc": {
+    "defaultMessage": "电子邮件 / Email",
+    "description": "auth->ForgotPasswordForm.tsx->ForgotPasswordForm"
+  },
+  "I7YVqS": {
+    "defaultMessage": "个人资料设置 / Profile settings",
+    "description": "profile->PasswordForm.tsx->PasswordForm"
+  },
+  "IgYXjd": {
+    "defaultMessage": "蛋白质 / Protein",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "IhcPD8": {
+    "defaultMessage": "返回登录 / Back to login",
+    "description": "auth->ForgotPasswordForm.tsx->ForgotPasswordForm"
+  },
+  "JwqSE5": {
+    "defaultMessage": "很高兴见到您！登录到您的账户！ / Great to see you! Log in to your account!",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "KS292J": {
+    "defaultMessage": "描述至少应包含3个字符 / Description should contain at least 3 characters",
+    "description": "dishes->dish-form->DishForm.tsx->schema"
+  },
+  "KvT3Be": {
+    "defaultMessage": "答案4 / Answer 4",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "LBX4WW": {
+    "defaultMessage": "保存更改 / Save changes",
+    "description": "orders->EditNoteModal.tsx->EditNoteModal"
+  },
+  "LvmgQd": {
+    "defaultMessage": "这是一道美味的菜 / This is a tasty dish",
+    "description": "dishes->dish-form->DishForm.tsx->DishFormValues"
+  },
+  "M3OfiI": {
+    "defaultMessage": "宽度 / Width",
+    "description": "dishes->dish-form->DishModelDropZone.tsx->DishModelDropZone"
+  },
+  "MIg15T": {
+    "defaultMessage": "创建{name} / Create {name}",
+    "description": "common->form->FormHeader.tsx->FormHeader"
+  },
+  "MLKLVm": {
+    "defaultMessage": "退出登录/Log out",
+    "description": "profile->ProfileMenu.tsx->ProfileMenu"
+  },
+  "NqjPpm": {
+    "defaultMessage": "编辑备注/Edit note",
+    "description": "orders->EditNoteModal.tsx->EditNoteModal"
+  },
+  "NzIJK7": {
+    "defaultMessage": "测量数值/Measurement value",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "O+9qkw": {
+    "defaultMessage": "电子邮件：/Email:",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "OLBeMv": {
+    "defaultMessage": "桌子/Tables",
+    "description": "tables->TablesHeading.tsx->TablesHeading"
+  },
+  "ONwtvJ": {
+    "defaultMessage": "占用情况：/Occupancy:",
+    "description": "tables->TableCard.tsx->TableCard"
+  },
+  "P+Sv6B": {
+    "defaultMessage": "您确定要注销吗？/Are you sure you want to logout?",
+    "description": "profile->ProfileMenu.tsx->ProfileMenu"
+  },
+  "P/Ks9N": {
+    "defaultMessage": "下载QR码/Download QR-code",
+    "description": "tables->TableCard.tsx->DownloadButtonLabel"
+  },
+  "PCTh6H": {
+    "defaultMessage": "问题4/Question 4",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "Q0GclD": {
+    "defaultMessage": "千克/kg",
+    "description": "dishes->dish-form->DishForm.tsx->measurementUnitOptions"
+  },
+  "Q5wfnM": {
+    "defaultMessage": "让你的菜更有吸引力！/Make your dishes more attractive!",
+    "description": "dishes->dish-form->MarketingToolsInput.tsx->MarketingToolsInput"
+  },
+  "QTaLIB": {
+    "defaultMessage": "类别应至少包含3个字符/Category should contain at least 3 characters",
+    "description": "dishes->CategoryForm.tsx->schema"
+  },
+  "RWvQJO": {
+    "defaultMessage": "备注/Note",
+    "description": "orders->OrderCards.tsx->collected.isDragging"
+  },
+  "RxtRx6": {
+    "defaultMessage": "保存/Save",
+    "description": "profile->PasswordForm.tsx->PasswordForm"
+  },
+  "S8ecya": {
+    "defaultMessage": "修改密码/Change password",
+    "description": "profile->SettingsForm.tsx->EmailInput"
+  },
+  "SExSe1": {
+    "defaultMessage": "新建桌子/New table",
+    "description": "tables->TableFrom.tsx->defaultValues"
+  },
+  "ScZRjH": {
+    "defaultMessage": "个人设置/Profile settings",
+    "description": "profile->SettingsForm.tsx->SettingsForm"
+  },
+  "T4qZnh": {
+    "defaultMessage": "问题5/Question 5",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "T7So3Z": {
+    "defaultMessage": "登录/Login",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "U7hSS5": {
+    "defaultMessage": "姓名是必填项/Name is a required field",
+    "description": "tables->WaiterForm.tsx->schema"
+  },
+  "UdgZyE": {
+    "defaultMessage": "姓名*/Name*",
+    "description": "tables->WaiterForm.tsx->NameInput"
+  },
+  "Ug7ZlS": {
+    "defaultMessage": "货币/Currency",
+    "description": "restaurants->RestaurantForm.tsx->CurrencySelect"
+  },
+  "V16hmr": {
+    "defaultMessage": "编辑{name}/Edit {name}",
+    "description": "common->form->FormHeader.tsx->FormHeader"
+  },
+  "V8ZBNQ": {
+    "defaultMessage": "日期/Date",
+    "description": "orders->ArchiveTable.tsx->ArchiveTable"
+  },
+  "VWI5+f": {
+    "defaultMessage": "保存/Save",
+    "description": "common->form->SaveDeleteButtons.tsx->SaveDeleteButtons"
+  },
+  "VWO1sJ": {
+    "defaultMessage": "桌子/Tables",
+    "description": "tables->WaiterForm.tsx->TablesInput"
+  },
+  "W8j9OA": {
+    "defaultMessage": "密码：/Password:",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "WNlVUu": {
+    "defaultMessage": "订单/Orders",
+    "description": "orders->OrdersHeading.tsx->OrdersHeading"
+  },
+  "WVbXfh": {
+    "defaultMessage": "电子邮件/Email",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "YTeQmg": {
+    "defaultMessage": "电子邮件是必填项/Email is a required field",
+    "description": "tables->WaiterForm.tsx->schema"
+  },
+  "ZJO1vp": {
+    "defaultMessage": "电子邮件/Email",
+    "description": "profile->SettingsForm.tsx->EmailInput"
+  },
+  "Zb5dPz": {
+    "defaultMessage": "额外类别/Additional category",
+    "description": "dishes->dish-form->MarketingToolsInput.tsx->MarketingToolsInput"
+  },
+  "ZsnUV+": {
+    "defaultMessage": "电子邮件：/Email:",
+    "description": "auth->ForgotPasswordForm.tsx->ForgotPasswordForm"
+  },
+  "Zu7S1p": {
+    "defaultMessage": "取消/cancel",
+    "description": "common->modal->ConfirmDeleteModal.tsx->ConfirmDeleteModal"
+  },
+  "b/YOwn": {
+    "defaultMessage": "添加横幅/Add banner",
+    "description": "restaurants->RestaurantForm.tsx->BannerInput"
+  },
+  "bEMXh3": {
+    "defaultMessage": "价格/Price",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "bmfz7U": {
+    "defaultMessage": "添加新菜品/Add new dish",
+    "description": "dishes->AddDishCard.tsx->AddDishCard"
+  },
+  "bs2321": {
+    "defaultMessage": "升/l",
+    "description": "dishes->dish-form->DishForm.tsx->measurementUnitOptions"
+  },
+  "bycHoP": {
+    "defaultMessage": "请输入您的电子邮件地址，以接收您的验证码/Please enter your email address to receive your verification code",
+    "description": "auth->ForgotPasswordForm.tsx->ForgotPasswordForm"
+  },
+  "cdYiPd": {
+    "defaultMessage": "如果您的电子邮件在我们的系统中，您将很快收到重置密码的说明。/If your email is in our system, you will receive instructions to reset your password shortly.",
+    "description": "auth->ForgotPasswordForm.tsx->ForgotPasswordForm"
+  },
+  "cufXoZ": {
+    "defaultMessage": "服务员/Waiter",
+    "description": "tables->TableFrom.tsx->WaiterSelect"
+  },
+  "dJxu8T": {
+    "defaultMessage": "辣度/Spicy level",
+    "description": "dishes->dish-form->DishForm.tsx->SpicyLevelInput"
+  },
+  "eHNiK5": {
+    "defaultMessage": "添加徽标/Add logo",
+    "description": "restaurants->RestaurantForm.tsx->LogoInput"
+  },
+  "eWk+/S": {
+    "defaultMessage": "通过点击上面的“登录”，您确认您已阅读、理解并同意 /By clicking “Log in” above, you acknowledge that you have read, understood and agreed to ",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "evYEY3": {
+    "defaultMessage": "请求已提交/Request Submitted",
+    "description": "auth->ForgotPasswordForm.tsx->ForgotPasswordForm"
+  },
+  "fB8rMX": {
+    "defaultMessage": "姓名/Name",
+    "description": "restaurants->RestaurantForm.tsx->NameInput"
+  },
+  "fI8c2I": {
+    "defaultMessage": "本周之星/Top of the week",
+    "description": "dishes->dish-form->MarketingToolsInput.tsx->MarketingToolsInput"
+  },
+  "fTQDRV": {
+    "defaultMessage": "描述/Description",
+    "description": "restaurants->RestaurantForm.tsx->NameInput"
+  },
+  "gIorQU": {
+    "defaultMessage": "问题3/Question 3",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "ghWjl5": {
+    "defaultMessage": "成分/Ingredients",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "h72PvL": {
+    "defaultMessage": "语言/Language",
+    "description": "profile->SettingsForm.tsx->LanguageSelect"
+  },
+  "hFXTI4": {
+    "defaultMessage": "姓名是必填项/Name is a required field",
+    "description": "tables->TableFrom.tsx->schema"
+  },
+  "hRV4T9": {
+    "defaultMessage": "完成/Complete",
+    "description": "orders->OrdersGrid.tsx->OrdersGrid"
+  },
+  "hW5+Ny": {
+    "defaultMessage": "如果您需要支持，请使用我们的任何联系方式。/If you need support than use any of our contacts.",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "i9pqYw": {
+    "defaultMessage": "电话：/Phone:",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "iab0Si": {
+    "defaultMessage": "脂肪/Fat",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "iamxsS": {
+    "defaultMessage": "* 必填字段/* necessary field",
+    "description": "tables->TableFrom.tsx->NameInput"
+  },
+  "j+daVu": {
+    "defaultMessage": "加载模型.../Loading model...",
+    "description": "dishes->dish-form->model-overlay->ModelPreview.tsx->LoadingModelPlaceholder"
+  },
+  "jsfb5C": {
+    "defaultMessage": "星期二/Tue",
+    "description": "restaurants->workingTimeInput.tsx->WorkingTime"
+  },
+  "k/fZ0g": {
+    "defaultMessage": "订单存档/Orders archive",
+    "description": "orders->ArchiveHeadings.tsx->ArchiveHeading"
+  },
+  "k9T5n+": {
+    "defaultMessage": "颜色边框/Color border",
+    "description": "dishes->dish-form->MarketingToolsInput.tsx->ColorBorderInput"
+  },
+  "kAWdSe": {
+    "defaultMessage": "新服务员/New waiter",
+    "description": "tables->WaiterForm.tsx->defaultValues"
+  },
+  "khvTcV": {
+    "defaultMessage": "在此处放下/Drop here",
+    "description": "orders->OrdersDropOverlay.tsx->OrdersDropOverlay"
+  },
+  "l6Vv9N": {
+    "defaultMessage": "忘记密码？/Forgot your password?",
+    "description": "auth->ForgotPasswordForm.tsx->ForgotPasswordForm"
+  },
+  "lDSLYH": {
+    "defaultMessage": "继续使用社交媒体/Continue with social media",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "lTiDok": {
+    "defaultMessage": "厨师推荐/Chef recommended",
+    "description": "dishes->dish-form->MarketingToolsInput.tsx->MarketingToolsInput"
+  },
+  "lluTvc": {
+    "defaultMessage": "您无权查看此页面/You are not allowed to view this page",
+    "description": "layout->cmsNav.tsx->Error403"
+  },
+  "mChnY5": {
+    "defaultMessage": "设置/Settings",
+    "description": "profile->ProfileMenu.tsx->ProfileMenu"
+  },
+  "mEDNnX": {
+    "defaultMessage": "在此处放下/Drop here",
+    "description": "dishes->CategoryDropOverlay.tsx->CategoryDropOverlay"
+  },
+  "mh/k7j": {
+    "defaultMessage": "总计/Total",
+    "description": "orders->ArchiveTable.tsx->ArchiveTable"
+  },
+  "mnWTwF": {
+    "defaultMessage": "电子邮件：/Email:",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "mtr8HD": {
+    "defaultMessage": "是/yes",
+    "description": "common->modal->ConfirmDeleteModal.tsx->ConfirmDeleteModal"
+  },
+  "n4PJKF": {
+    "defaultMessage": "添加新桌子/Add new table",
+    "description": "tables->AddTableCard.tsx->AddTableCard"
+  },
+  "nG3Db8": {
+    "defaultMessage": "问题6/Question 6",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "nPlhJE": {
+    "defaultMessage": "欢迎使用Menudget！/Welcome to Menudget!",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "o76qJC": {
+    "defaultMessage": "删除/Delete",
+    "description": "common->form->SaveDeleteButtons.tsx->SaveDeleteButtons"
+  },
+  "oB2UT3": {
+    "defaultMessage": "问题1/Question 1",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "os9pxA": {
+    "defaultMessage": "深度/Depth",
+    "description": "dishes->dish-form->DishModelDropZone.tsx->DishModelDropZone"
+  },
+  "p69P0z": {
+    "defaultMessage": "成分应至少包含3个字符/Ingredients should contain at least 3 characters",
+    "description": "dishes->dish-form->DishForm.tsx->schema"
+  },
+  "p6gBuP": {
+    "defaultMessage": "点击或在此处放下文件/Click or Drop files here",
+    "description": "dishes->dish-form->DishModelDropZone.tsx->DishModelDropZone"
+  },
+  "pYnKep": {
+    "defaultMessage": "名称/name",
+    "description": "dishes->CategoryForm.tsx->PropertiesInput"
+  },
+  "pbfvZ8": {
+    "defaultMessage": "我们的支持将在您联系我们后尽快回复。/Our support will reply as soon as possible after you contact us.",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "qIWLBa": {
+    "defaultMessage": "您确定要删除{name}吗？/Are you sure you want to delete {name}?",
+    "description": "common->modal->ConfirmDeleteModal.tsx->ConfirmDeleteModal"
+  },
+  "qYSyLF": {
+    "defaultMessage": "创建类别/Create category",
+    "description": "dishes->CategoryForm.tsx->Header"
+  },
+  "qmD/oo": {
+    "defaultMessage": "卡路里/Calories",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "qqeKQZ": {
+    "defaultMessage": "营养/Nutrition",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "rNVNar": {
+    "defaultMessage": "订单号/Order №",
+    "description": "orders->ArchiveTable.tsx->ArchiveTable"
+  },
+  "rbXQUh": {
+    "defaultMessage": "描述/Description",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "ryZ0sJ": {
+    "defaultMessage": "添加新餐厅/Add new restaurant",
+    "description": "restaurants->AddRestaurantCard.tsx->AddRestaurantCard"
+  },
+  "sqDGPj": {
+    "defaultMessage": "经理电子邮件/Manager email",
+    "description": "restaurants->RestaurantForm.tsx->ManagerEmailInput"
+  },
+  "syZRZo": {
+    "defaultMessage": "颜色值不是有效的十六进制/Color value is not a valid hex",
+    "description": "dishes->dish-form->DishForm.tsx->schema"
+  },
+  "szBnRb": {
+    "defaultMessage": "保存更改/Save changes",
+    "description": "profile->SettingsForm.tsx->SettingsForm"
+  },
+  "tGQl1N": {
+    "defaultMessage": "营销工具/Marketing tools",
+    "description": "dishes->dish-form->MarketingToolsInput.tsx->MarketingToolsInput"
+  },
+  "tJWNlL": {
+    "defaultMessage": "我们有美味的食物/We have tasty food",
+    "description": "restaurants->RestaurantForm.tsx->defaultValues"
+  },
+  "tMbube": {
+    "defaultMessage": "编辑类别/Edit category",
+    "description": "dishes->CategoryForm.tsx->Header"
+  },
+  "tf09j4": {
+    "defaultMessage": "回答 3/Answer 3",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "urvJdl": {
+    "defaultMessage": "问题 2/Question 2",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "vQ/6/g": {
+    "defaultMessage": "发送/Send",
+    "description": "auth->ForgotPasswordForm.tsx->ForgotPasswordForm"
+  },
+  "vfeWQK": {
+    "defaultMessage": "新餐厅/New restaurant",
+    "description": "restaurants->RestaurantForm.tsx->defaultValues"
+  },
+  "w2WWwT": {
+    "defaultMessage": "支持/Support",
+    "description": "profile->SupportPanel.tsx->SupportPanel"
+  },
+  "wVv/qS": {
+    "defaultMessage": "服务员/Waiter",
+    "description": "orders->ArchiveTable.tsx->ArchiveTable"
+  },
+  "wqU08t": {
+    "defaultMessage": "密码不匹配/Passwords don't match",
+    "description": "profile->PasswordForm.tsx->schema"
+  },
+  "wxTdoH": {
+    "defaultMessage": "或/Or",
+    "description": "auth->LoginForm.tsx->LoginForm"
+  },
+  "x1apyM": {
+    "defaultMessage": "没有上传模型/No model is uploaded",
+    "description": "dishes->dish-form->model-overlay->ModelPreview.tsx->NoModelPlaceholder"
+  },
+  "xqGUI/": {
+    "defaultMessage": "确认密码：/Confirm password:",
+    "description": "auth->ChangePasswordForm.tsx->ChangePasswordForm"
+  },
+  "yEpKGh": {
+    "defaultMessage": "* 必填字段/* necessary fields",
+    "description": "tables->WaiterForm.tsx->WaiterForm"
+  },
+  "yTedRX": {
+    "defaultMessage": "克/g",
+    "description": "dishes->dish-form->DishForm.tsx->measurementUnitOptions"
+  },
+  "z17rPU": {
+    "defaultMessage": "添加模型/Add model",
+    "description": "dishes->dish-form->DishModelDropZone.tsx->DishModelDropZone"
+  },
+  "zG07k0": {
+    "defaultMessage": "高度/Height",
+    "description": "dishes->dish-form->DishModelDropZone.tsx->DishModelDropZone"
+  },
+  "zKQ07L": {
+    "defaultMessage": "在此输入.../Type here...",
+    "description": "orders->EditNoteModal.tsx->EditNoteModal"
+  },
+  "zVNRvY": {
+    "defaultMessage": "返回/Go back",
+    "description": "auth->LoginFailed.tsx->LoginFailed"
+  },
+  "zZJXb/": {
+    "defaultMessage": "是/yes",
+    "description": "profile->ProfileMenu.tsx->ProfileMenu"
+  },
+  "zbwpZe": {
+    "defaultMessage": "添加图片/Add images",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "/gWjjW": {
+    "defaultMessage": "新类别/New category",
+    "description": "dishes->CategoriesForm.tsx->AddButton"
+  },
+  "9ChU7F": {
+    "defaultMessage": "取消订单/Cancel order",
+    "description": "orders->OrderCard.tsx->collected.isDragging"
+  },
+  "Blswyz": {
+    "defaultMessage": "新菜品/New dish",
+    "description": "dishes->dish-form->DishForm.tsx->DishFormValues"
+  },
+  "OqqPua": {
+    "defaultMessage": "新类别/New category",
+    "description": "dishes->CategoryForm.tsx->defaultValues"
+  },
+  "U6qXrK": {
+    "defaultMessage": "删除订单/Delete order",
+    "description": "orders->OrderCard.tsx->collected.isDragging"
+  },
+  "eG8+2W": {
+    "defaultMessage": "折扣/Discount",
+    "description": "dishes->dish-form->DishForm.tsx->DishForm"
+  },
+  "iX10Kw": {
+    "defaultMessage": "编辑订单/Edit order",
+    "description": "orders->OrderCard.tsx->collected.isDragging"
+  },
+  "+dJAuO": {
+    "defaultMessage": "餐馆/Restaurants",
+    "description": "restaurants->RestaurantsHeading.tsx->RestaurantsHeading"
+  },
+  "DFSr7F": {
+    "defaultMessage": "桌子/Tables",
+    "description": "Navbar.tsx->TablesLink"
+  },
+  "Fc0va3": {
+    "defaultMessage": "餐厅/Restaurant",
+    "description": "Navbar.tsx->RestaurantLink"
+  },
+  "R4p9X5": {
+    "defaultMessage": "Mn.-Fr.",
+    "description": "restaurants->RestaurantCard.tsx->RestaurantCard"
+  },
+  "YD8SqW": {
+    "defaultMessage": "餐馆/Restaurants",
+    "description": "Navbar.tsx->RestaurantsLink"
+  },
+  "dPTJv0": {
+    "defaultMessage": "服务员/Waiters",
+    "description": "Navbar.tsx->WaitersLink"
+  },
+  "hRAGMC": {
+    "defaultMessage": "菜肴/Dishes",
+    "description": "Navbar.tsx->DishesLink"
+  },
+  "sD751l": {
+    "defaultMessage": "命令/Orders",
+    "description": "Navbar.tsx->OrdersLink"
+  },
+  "y1iMvy": {
+    "defaultMessage": "周六周日。",
+    "description": "restaurants->RestaurantCard.tsx->RestaurantCard"
+  },
+  "+IAuv8": {
+    "defaultMessage": "菜肴/Dishes - Menudget",
+    "description": "pages/cms/dishes/[restaurantId]->[id].tsx->DishPage"
+  },
+  "1ovNmk": {
+    "defaultMessage": "命令/Orders - Menudget",
+    "description": "pages/cms/orders->[restaurantId].tsx->RestaurantOrdersPage"
+  },
+  "2OVOVl": {
+    "defaultMessage": "表格/Tables - Menudget",
+    "description": "pages/cms/tables/[restaurantId]->index.tsx->RestaurantTablesPage"
+  },
+  "5QPcTx": {
+    "defaultMessage": "命令/Orders - Menudget",
+    "description": "pages/cms/orders->index.tsx->OrdersPage"
+  },
+  "BUrQow": {
+    "defaultMessage": "服务员/Waiters - Menudget",
+    "description": "pages/cms/waiters/[restauranId]->index.tsx->RestaurantWaitersPage"
+  },
+  "Dh3bgZ": {
+    "defaultMessage": "新表/New Table - Menudget",
+    "description": "pages/cms/tables/[restaurantId]->new.tsx->NewTablePage"
+  },
+  "GsbFqT": {
+    "defaultMessage": "新菜品/New dish - Menudget",
+    "description": "pages/cms/dishes/[restaurantId]->new.tsx->NewDishPage"
+  },
+  "I+uLWd": {
+    "defaultMessage": "新服务员/New Waiter - Menudget",
+    "description": "pages/cms/waiters/[restauranId]->new.tsx->NewWaiterPage"
+  },
+  "IT1r61": {
+    "defaultMessage": "登录/Log In - Menudget",
+    "description": "pages/cms/auth->login.tsx->LoginPage"
+  },
+  "MqNY40": {
+    "defaultMessage": "新餐厅/New Restaurant - Menudget",
+    "description": "pages/cms/restaurants->new.tsx->NewRestaurantPage"
+  },
+  "UUphAO": {
+    "defaultMessage": "登录失败/Log In failed - Menudget",
+    "description": "pages/cms/auth->login-failed.tsx->LoginFailedPage"
+  },
+  "cb9Aox": {
+    "defaultMessage": "服务员/Waiters - Menudget",
+    "description": "pages/cms/waiters->index.tsx->WaitersPage"
+  },
+  "dasPM1": {
+    "defaultMessage": "更改您的密码/Change Your Password - Menudget",
+    "description": "pages/cms/auth->change-password.tsx->ChangePasswordPage"
+  },
+  "fYN9Jk": {
+    "defaultMessage": "服务员/Waiters - Menudget",
+    "description": "pages/cms/waiters/[restauranId]->[id].tsx->WaiterPage"
+  },
+  "jDUepM": {
+    "defaultMessage": "菜肴/Dishes - Menudget",
+    "description": "pages/cms/dishes/[restaurantId]->index.tsx->RestaurantDishesPage"
+  },
+  "m8UmHm": {
+    "defaultMessage": "餐厅/Restaurants - Menudget",
+    "description": "pages/cms/restaurants->[id].tsx->RestaurantPage"
+  },
+  "noWYm+": {
+    "defaultMessage": "设置/Settings - Menudget",
+    "description": "pages/cms/profile->settings.tsx->SettingsPage"
+  },
+  "nwUv+Q": {
+    "defaultMessage": "支持/Support - Menudget",
+    "description": "pages/cms/profile->support.tsx->SupportPage"
+  },
+  "sRlTRv": {
+    "defaultMessage": "餐厅/Restaurants - Menudget",
+    "description": "pages/cms/restaurants->index.tsx->RestaurantPage"
+  },
+  "sdIJYI": {
+    "defaultMessage": "菜肴/Dishes - Menudget",
+    "description": "pages/cms/dishes/->index.tsx->DishesPage"
+  },
+  "tF2zsb": {
+    "defaultMessage": "表格/Tables - Menudget",
+    "description": "pages/cms/tables/[restaurantId]->[id].tsx->TablePage"
+  },
+  "ts+Zkm": {
+    "defaultMessage": "类别/Categories - Menudget",
+    "description": "pages/cms/dishes/[restaurantId]/categories->index.tsx->CategoriesPage"
+  },
+  "v54l4f": {
+    "defaultMessage": "命令/Orders - Menudget",
+    "description": "pages/cms/orders/archive->[restaurantId].tsx->RestaurantArchivePage"
+  },
+  "xxurmt": {
+    "defaultMessage": "档案/Archive - Menudget",
+    "description": "pages/cms/orders/archive->index.tsx->ArchivePage"
+  },
+  "FZqqdB": {
+    "defaultMessage": "表格/Tables - Menudget",
+    "description": "pages/cms/tables/->index.tsx->TablesPage"
+  },
+  "zxaSaB": {
+    "defaultMessage": "忘记密码了吗？/Forgot Your Password? - Menudget",
+    "description": "pages/cms/auth->forgot-password.tsx->ForgotPasswordPage"
+  },
+  "HHj7dJ": {
+    "defaultMessage": "服务员/Waiters",
+    "description": "waiters->WaitersHeading.tsx->WaitersHeading"
+  },
+  "I5HqOO": {
+    "defaultMessage": "从/from",
+    "description": "cms/restaurants->WorkingTimeInput.tsx->TimeInput"
+  },
+  "a4rCkh": {
+    "defaultMessage": "工作时间/Working hours",
+    "description": "cms/restaurants->WorkingTimeInput.tsx->WorkingTime"
+  },
+  "wyOJ9U": {
+    "defaultMessage": "到/to",
+    "description": "cms/restaurants->WorkingTimeInput.tsx->TimeInput"
+  },
+  "OZqHfU": {
+    "defaultMessage": "在此输入.../Type here...",
+    "description": "cms/orders->EditOrderModal.tsx->EditOrderModal"
+  },
+  "b4DzWY": {
+    "defaultMessage": "过敏原/Allergens",
+    "description": "cms/dishes/dish-form/->DishForm.tsx->LabelsInput"
+  },
+  "iz2Wei": {
+    "defaultMessage": "保存更改/Save changes",
+    "description": "cms/orders->EditOrderModal.tsx->EditOrderModal"
+  },
+  "u3ljDp": {
+    "defaultMessage": "编辑收据/Edit receipt",
+    "description": "cms/orders->EditOrderModal.tsx->EditOrderModal"
+  },
+  "uuPH2t": {
+    "defaultMessage": "添加/Add",
+    "description": "cms/orders->EditOrderModal.tsx->EditOrderModal"
+  },
+  "S09bmW": {
+    "defaultMessage": "边界/Border",
+    "description": "dishes->dish-form->MarketingToolsInput.tsx->MarketingToolsInput"
+  }
+}
